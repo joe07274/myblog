@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>golang on Hacking Management</title>
+    <link>https://spf13.com/topics/golang/</link>
+    <description>Recent content in golang on Hacking Management</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright (c) 2008 - 2019, Steve Francia; all rights reserved.</copyright>
+    <lastBuildDate>Tue, 22 Oct 2019 00:00:00 +0800</lastBuildDate><atom:link href="https://spf13.com/topics/golang/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Legacy of Go</title>
+      <link>https://spf13.com/presentation/the-legacy-of-go/</link>
+      <pubDate>Tue, 22 Oct 2019 00:00:00 +0800</pubDate>
+      
+      <guid>https://spf13.com/presentation/the-legacy-of-go/</guid>
+      <description>&lt;p&gt;This presentation was developed for &lt;a href=&#34;https://golab.io&#34;&gt;GoLab&lt;/a&gt; in Firenze Italy and delivered as the closing keynote of the conference. The presentation talks about legacy, looking both backwards and forwards. It talks about the legacy of langauage Go inherited and how it is paying respect to that legacy. It concludes talking about the legacy Go hopes to leave behind.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>What Should a Modern Practical Programming Language Look Like</title>
+      <link>https://spf13.com/presentation/what-should-a-modern-practical-programming-language-look-like/</link>
+      <pubDate>Fri, 05 Apr 2019 00:00:00 +0800</pubDate>
+      
+      <guid>https://spf13.com/presentation/what-should-a-modern-practical-programming-language-look-like/</guid>
+      <description>&lt;p&gt;Keynote delivered at &lt;a href=&#34;https://landingfestival.com/&#34;&gt;The Landing Festival – Berlin&lt;/a&gt;. This presentation describes the many inspirations and influences of the &lt;a href=&#34;http://golang.org&#34;&gt;Go programming language&lt;/a&gt; and goes into detail about how we shaped and created the language.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Go – On The Shoulders of Giants</title>
+      <link>https://spf13.com/presentation/on-the-shoulders-of-giants/</link>
+      <pubDate>Tue, 17 Jul 2018 00:00:00 +0800</pubDate>
+      
+      <guid>https://spf13.com/presentation/on-the-shoulders-of-giants/</guid>
+      <description>&lt;p&gt;This presentation was developed for &lt;a href=&#34;http://www.curry-on.org/2018/&#34;&gt;Curry On&lt;/a&gt; and delivered as the closing keynote of the conference. The presentation describes the many inspirations and influences of the &lt;a href=&#34;http://golang.org&#34;&gt;Go programming language&lt;/a&gt; and goes into detail about how we shaped and created the language.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>演讲：Go, a global phenomenon (英语演讲)</title>
+      <link>https://spf13.com/presentation/go-a-global-phenomenon/</link>
+      <pubDate>Sat, 07 Jul 2018 00:00:00 +0800</pubDate>
+      
+      <guid>https://spf13.com/presentation/go-a-global-phenomenon/</guid>
+      <description>&lt;p&gt;This presentation was given in 深圳市 China, July 2018 as part of the &lt;a href=&#34;https://sz2018.archsummit.com/&#34;&gt;InfoQ ArchSummit conference&lt;/a&gt;. It covers why Go was created and it&amp;rsquo;s impact across the globe.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Drupal and the secret of my success</title>
+      <link>https://spf13.com/presentation/drupal-and-the-secret-of-my-success/</link>
+      <pubDate>Wed, 11 Apr 2018 00:00:00 +0800</pubDate>
+      
+      <guid>https://spf13.com/presentation/drupal-and-the-secret-of-my-success/</guid>
+      <description>&lt;p&gt;As my tenure on the &lt;a href=&#34;https://www.drupal.org/association&#34;&gt;Drupal Association&lt;/a&gt; was concluding, I was asked to give the Keynote for DrupalCon. It was my privilage to talk about my 20 year history with open source and how much I learned from and valued the Drupal community. &lt;a href=&#34;https://dri.es&#34;&gt;Dries&lt;/a&gt;, Drupal&amp;rsquo;s founder gave a touching &lt;a href=&#34;https://dri.es/how-drupal-influences-other-open-source-projects&#34;&gt;shoutout on his blog&lt;/a&gt; afterwards.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>State of the Go Nation – Gophercon Brasil 2017</title>
+      <link>https://spf13.com/presentation/state-of-the-go-nation-gophercon-brasil-2017/</link>
+      <pubDate>Sun, 19 Nov 2017 00:00:00 +0800</pubDate>
+      
+      <guid>https://spf13.com/presentation/state-of-the-go-nation-gophercon-brasil-2017/</guid>
+      <description>&lt;p&gt;This talk is an overview of the entire Go project. It covers “what we’ve done”, “why we did it” and “where we are going” as a project. It highlights our accomplishments, challenges and what the Go Project is doing to address our challenges.&lt;/p&gt;
+&lt;p&gt;It was delievered as the closing Keynote for Gophercon Brasil in 2017.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>State of the Go Nation – Gotham Go 2017</title>
+      <link>https://spf13.com/presentation/state-of-the-go-nation-gotham-go-2017/</link>
+      <pubDate>Mon, 09 Oct 2017 00:00:00 +0800</pubDate>
+      
+      <guid>https://spf13.com/presentation/state-of-the-go-nation-gotham-go-2017/</guid>
+      <description>&lt;p&gt;This talk is an overview of the entire Go project. It covers “what we’ve done”, “why we did it” and “where we are going” as a project. It highlights our accomplishments, challenges and what the Go Project is doing to address our challenges.&lt;/p&gt;
+&lt;p&gt;It was delievered as the opening Keynote for Gotham Go in 2017.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>State Of The Gopher Nation - Golang UK 2017</title>
+      <link>https://spf13.com/presentation/stateofthegophernation-aug17/</link>
+      <pubDate>Thu, 17 Aug 2017 10:09:53 -0400</pubDate>
+      
+      <guid>https://spf13.com/presentation/stateofthegophernation-aug17/</guid>
+      <description>I am at GolangUK in London, having just finished giving the opening keynote.
+I was a bit more nervous than usual, in part, due to the length of time since my last talk, and in part I was representing the entire Go project for the first time in a keynote.
+This talk is an overview of the entire Go project. It covers &amp;ldquo;what we&amp;rsquo;ve done&amp;rdquo;, &amp;ldquo;why we did it&amp;rdquo; and &amp;ldquo;where we are going&amp;rdquo; as a project.</description>
+    </item>
+    
+    <item>
+      <title>How to Contribute to Go</title>
+      <link>https://spf13.com/presentation/how-to-contribute-to-go/</link>
+      <pubDate>Mon, 24 Jul 2017 00:00:00 +0800</pubDate>
+      
+      <guid>https://spf13.com/presentation/how-to-contribute-to-go/</guid>
+      <description>&lt;p&gt;I wrote this presentation with &lt;a href=&#34;https://blog.jessfraz.com/&#34;&gt;Jessie Frazelle&lt;/a&gt;. She made it look very nice and delivered it at the &amp;ldquo;Go Contributor Workshop&amp;rdquo; at &lt;a href=&#34;https://www.gophercon.com/&#34;&gt;GopherCon&lt;/a&gt;. Some of the instructions are clearly only relevant to that workshop, but the vast majority of the presentation should be helpful to anyone wanting to contribute to Go.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Life, Liberty, and Golang</title>
+      <link>https://spf13.com/presentation/life-liberty-and-golang/</link>
+      <pubDate>Thu, 08 Jun 2017 00:00:00 +0800</pubDate>
+      
+      <guid>https://spf13.com/presentation/life-liberty-and-golang/</guid>
+      <description>&lt;p&gt;A semi-autobiographical presentation given to the winners of &lt;a href=&#34;https://codein.withgoogle.com/archive/2017/&#34;&gt;Google&amp;rsquo;s 2017 Code-in contest&lt;/a&gt;. This presentation covers the lessons I&amp;rsquo;ve learned over the years, and especially those I&amp;rsquo;ve learned as a member of the Go programming language team.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Building an Awesome CLI App in Go – OSCON 2017</title>
+      <link>https://spf13.com/presentation/building-an-awesome-cli-app-in-go-oscon/</link>
+      <pubDate>Tue, 09 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://spf13.com/presentation/building-an-awesome-cli-app-in-go-oscon/</guid>
+      <description>&lt;p&gt;A workshop written and delivered by &lt;a href=&#34;https://spf13.com&#34;&gt;Steve Francia&lt;/a&gt; and &lt;a href=&#34;https://twitter.com/ashleymcnamara&#34;&gt;Ashley McNamara&lt;/a&gt; at &lt;a href=&#34;https://conferences.oreilly.com/oscon/oscon-tx&#34;&gt;OSCON
+2017&lt;/a&gt; outlining the techniques, principles, and libraries you need to create
+user-friendly command-line interfaces and command suites before walking you
+through building your own app. Along the way, you’ll cover everything from how
+to design and build commands to working with and parsing flags, config files
+and remote config systems, and how to work with environment variables and
+12-factor apps. By the end of the workshop, you’ll have a working knowledge of
+Go and your very own functioning CLI app.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Building an Awesome Cli App in Go – Craft</title>
+      <link>https://spf13.com/presentation/building-an-awesome-cli-app-in-go-craft/</link>
+      <pubDate>Fri, 28 Apr 2017 00:00:00 +0800</pubDate>
+      
+      <guid>https://spf13.com/presentation/building-an-awesome-cli-app-in-go-craft/</guid>
+      <description>&lt;p&gt;A workshop written and delivered by &lt;a href=&#34;https://spf13.com&#34;&gt;Steve Francia&lt;/a&gt; and &lt;a href=&#34;https://twitter.com/ashleymcnamara&#34;&gt;Ashley McNamara&lt;/a&gt; at &lt;a href=&#34;https://craft-conf.com/2017&#34;&gt;CRAFT
+2017&lt;/a&gt; outlining the techniques, principles, and libraries you need to create
+user-friendly command-line interfaces and command suites before walking you
+through building your own app. Along the way, you’ll cover everything from how
+to design and build commands to working with and parsing flags, config files
+and remote config systems, and how to work with environment variables and
+12-factor apps. By the end of the workshop, you’ll have a working knowledge of
+Go and your very own functioning CLI app.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Hugo goes global</title>
+      <link>https://spf13.com/post/hugo-goes-global/</link>
+      <pubDate>Fri, 07 Oct 2016 10:56:02 -0400</pubDate>
+      
+      <guid>https://spf13.com/post/hugo-goes-global/</guid>
+      <description>&lt;p&gt;Hugo is going Global! Hugo 0.17, released today, is our best and fastest
+release ever! &lt;strong&gt;Hugo 0.17 is nearly twice as fast as Hugo 0.16&lt;/strong&gt; and adds
+&lt;strong&gt;full support for multilingual websites&lt;/strong&gt; with i18n support throughout all
+of Hugo.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>I’m joining the Go team at Google</title>
+      <link>https://spf13.com/post/joining-go-team-at-google/</link>
+      <pubDate>Thu, 15 Sep 2016 12:15:03 -0400</pubDate>
+      
+      <guid>https://spf13.com/post/joining-go-team-at-google/</guid>
+      <description>&lt;p&gt;I am honored to share that I have joined Google as a member of the Go team and will be primarily based in NYC.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>7 common mistakes in Go – GopherFest 2015</title>
+      <link>https://spf13.com/presentation/7-common-mistakes-in-go-2015/</link>
+      <pubDate>Wed, 27 May 2015 12:28:12 -0700</pubDate>
+      
+      <guid>https://spf13.com/presentation/7-common-mistakes-in-go-2015/</guid>
+      <description>Given at GopherFest 2015. This is an updated version of the talk I gave in NYC Nov 14 at GothamGo.
+“We need to think about failure differently. Most people think mistakes are a necessary evil. Mistakes aren&amp;rsquo;t a necessary evil, they aren&amp;rsquo;t evil at all. They are an inevitable consequence of doing something new and as such should be seen as valuable. “ - Ed Catmull
+As Go is a &amp;ldquo;new&amp;rdquo; programming language we are all experimenting and learning how to write better Go.</description>
+    </item>
+    
+    <item>
+      <title>What Every Open Source Project Needs</title>
+      <link>https://spf13.com/presentation/what-every-open-source-project-needs/</link>
+      <pubDate>Fri, 20 Mar 2015 18:00:02 -0400</pubDate>
+      
+      <guid>https://spf13.com/presentation/what-every-open-source-project-needs/</guid>
+      <description>In the last few years open source has transformed the software industry. From Android to Wikipedia, open source is everywhere, but how does one succeed in it? While open source projects come in all shapes and sizes and all forms of governance, no matter what kind of project you’re a part of, there are a set of fundamentals that lead to success. I’d like to share some of the lessons I’ve learned from running two of the largest commercial open source projects, Docker &amp;amp; MongoDB , as well as some very successful community based projects (Hugo, spf13-vim, Cobra, Viper, Zoop).</description>
+    </item>
+    
+    <item>
+      <title>How To Be A Good Open Source Community Member</title>
+      <link>https://spf13.com/post/how-to-be-a-good-open-source-community-member/</link>
+      <pubDate>Tue, 17 Mar 2015 15:24:07 -0500</pubDate>
+      
+      <guid>https://spf13.com/post/how-to-be-a-good-open-source-community-member/</guid>
+      <description>A friend of mine who is a very talented writer recently became intrigued with open source and asked me to help her to understand how to be a good open source community member.
+Open source is one of the most unusual things in the world. Is there any other profession where highly skilled professionals donate their free time to give their work away for free? Many spend long hours at their day jobs, just to spend their nights and weekends doing the same thing.</description>
+    </item>
+    
+    <item>
+      <title>7 Common mistakes in Go and when to avoid them – Gotham Go</title>
+      <link>https://spf13.com/presentation/7-biggest-mistakes-in-go/</link>
+      <pubDate>Tue, 18 Nov 2014 14:06:00 -0500</pubDate>
+      
+      <guid>https://spf13.com/presentation/7-biggest-mistakes-in-go/</guid>
+      <description>Not a generic list of programming mistakes, these are the lessons I wish I learned earlier while developing Go. I&amp;rsquo;ve spent the past two years developing some of the most popular libraries and applications written in Go. I&amp;rsquo;ve also made a lot of mistakes along the way. Recognizing that &amp;ldquo;The only real mistake is the one from which we learn nothing. -John Powell&amp;rdquo;, I would like to share with you the mistakes that I have made over my journey with Go and when you can avoid them.</description>
+    </item>
+    
+    <item>
+      <title>Hugo Summer 2014 Update</title>
+      <link>https://spf13.com/post/hugo-summer2014-update/</link>
+      <pubDate>Thu, 02 Oct 2014 13:28:42 -0400</pubDate>
+      
+      <guid>https://spf13.com/post/hugo-summer2014-update/</guid>
+      <description>Hugo, the fast and flexible static site generator, is really coming of age. I wanted to give a quick update about the progress Hugo has been making over the past couple months.
+New Website Hugo can now be found at http://gohugo.io. Update your bookmarks.
+New Team Members I want to formally welcome our newest team members.
+Tatsushi Demachi has been making excellent contributions hugo, particularly with extensions to the template capabilities.</description>
+    </item>
+    
+    <item>
+      <title>Go for Object Oriented Programmers</title>
+      <link>https://spf13.com/presentation/go-for-object-oriented-programmers/</link>
+      <pubDate>Thu, 31 Jul 2014 04:20:08 +0000</pubDate>
+      
+      <guid>https://spf13.com/presentation/go-for-object-oriented-programmers/</guid>
+      <description>This presentation was given at OSCON 2014.
+Object Oriented (OO) programming has dominated software engineering for the last two decades. The paradigm built on powerful concepts such as Encapsulation, Inheritance, and Polymoprhism has been internalized by the majority of software engineers. Although Go is not OO in the strict sense, we can continue to leverage the skills we’ve honed as OO engineers to come up with simple and solid designs.</description>
+    </item>
+    
+    <item>
+      <title>Using MongoDB with Go and mgo</title>
+      <link>https://spf13.com/presentation/mongodb-and-go/</link>
+      <pubDate>Wed, 23 Jul 2014 09:48:46 +0000</pubDate>
+      
+      <guid>https://spf13.com/presentation/mongodb-and-go/</guid>
+      <description>This presentation was given at OSCON 2014.
+This presentation will give developers an introduction and practical experience of using MongoDB with the Go language. MongoDB Chief Developer Advocate &amp;amp; Gopher Steve Francia presents plainly what you need to know about using MongoDB with Go.
+As an emerging language Go is able to start fresh without years of relational database dependencies. Application and library developers are able to build applications using the excellent Mgo MongoDB driver and the reliable go sql package for relational database.</description>
+    </item>
+    
+    <item>
+      <title>Getting Started with Go</title>
+      <link>https://spf13.com/presentation/first-go-app/</link>
+      <pubDate>Sun, 20 Jul 2014 08:51:33 +0000</pubDate>
+      
+      <guid>https://spf13.com/presentation/first-go-app/</guid>
+      <description>This presentation was given as a Workshop at OSCON 2014.
+Description New to Go? This tutorial will give developers an introduction and practical experience in building applications with the Go language. Gopher Steve Francia, Author of Hugo, Cobra, and many other popular Go packages breaks it down step by step as you build your own full featured Go application.
+Starting with an introduction to the Go language. He then reviews the fantastic go tools available.</description>
+    </item>
+    
+    <item>
+      <title>Pointers vs References</title>
+      <link>https://spf13.com/post/go-pointers-vs-references/</link>
+      <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://spf13.com/post/go-pointers-vs-references/</guid>
+      <description>Some languages including C, C++ support pointers. Other languages including C++, Java, Python, Ruby, Perl and PHP all support references. On the surface both references and pointers are very similar, both are used to have one variable provide access to another. With both providing a lot of the same capabilities, it’s often unclear what is different between these different mechanisms. In this article I will illustrate the difference between pointers and references.</description>
+    </item>
+    
+    <item>
+      <title>Is Go an Object Oriented language?</title>
+      <link>https://spf13.com/post/is-go-object-oriented/</link>
+      <pubDate>Mon, 09 Jun 2014 01:18:04 +0000</pubDate>
+      
+      <guid>https://spf13.com/post/is-go-object-oriented/</guid>
+      <description>To truly understand what it means to be ‘object-oriented’ you need to look back at the origination of the concept. The first object oriented language, simula, emerged in the 1960s. It introduced objects, classes, inheritance and subclasses, virtual methods, coroutines, and a lot more. Perhaps most importantly, it introduced a paradigm shift of thinking of data and logic as completely independent.
+While you many not be familiar with Simula, you are no doubt familiar with languages that refer to it as their inspiration including Java, C++, C# &amp;amp; Smalltalk, which in turn have been the inspiration for Objective C, Python, Ruby, Javascript, Scala, PHP, Perl&amp;hellip; a veritable list of nearly all popular languages in use today.</description>
+    </item>
+    
+    <item>
+      <title>Painless Datastorage With Mongodb and Go – Gophercon 2014</title>
+      <link>https://spf13.com/presentation/painless-datastorage-with-mongodb-and-go/</link>
+      <pubDate>Fri, 25 Apr 2014 00:00:00 +0800</pubDate>
+      
+      <guid>https://spf13.com/presentation/painless-datastorage-with-mongodb-and-go/</guid>
+      <description>&lt;p&gt;Find out why some people claim Go and MongoDB are a &amp;ldquo;pair made in heaven&amp;rdquo; and &amp;ldquo;the best database driver they&amp;rsquo;ve ever used&amp;rdquo; in this talk by Gustavo Niemeyer, the author of the mgo driver, and Steve Francia, the drivers team lead at MongoDB Inc.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Cross Compiling with Go</title>
+      <link>https://spf13.com/post/cross-compiling-go/</link>
+      <pubDate>Fri, 28 Feb 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://spf13.com/post/cross-compiling-go/</guid>
+      <description>One of the great features of golang is that you can compile executables for many different platforms and architectures from a single machine. It’s really nice to be able to provide executables of Hugo for a bunch of different platforms and architectures without having to have all these different machines in a build cluster.
+As I’ve been working with Hugo, I’ve wanted to make the experience of cross compiling as easy and painless as possible.</description>
+    </item>
+    
+    <item>
+      <title>A modern CLI Commander for go</title>
+      <link>https://spf13.com/post/announcing-cobra/</link>
+      <pubDate>Thu, 07 Nov 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://spf13.com/post/announcing-cobra/</guid>
+      <description>While developing Hugo I became disappointed with the interface limitations flags alone provide. A quick look at virtually any command line application (ls, grep, less, etc) reveals that most applications overuse flags to do everything and often allow conflicting flags to be applied.
+Even though hugo is relatively simple, we already had the ability to stack flags that didn&amp;rsquo;t make sense. You can set the port using &amp;ndash;port but this only has an effect if you also specified &amp;ndash;server.</description>
+    </item>
+    
+    <item>
+      <title>Refactoring with go fmt</title>
+      <link>https://spf13.com/post/go-fmt/</link>
+      <pubDate>Mon, 07 Oct 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://spf13.com/post/go-fmt/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;ve recently been getting into go. I&amp;rsquo;ve built a &lt;a href=&#34;http://hugo.spf13.com&#34;&gt;few
+packages&lt;/a&gt; &lt;a href=&#34;https://spf13.com/post/announcing-cobra&#34;&gt;and&lt;/a&gt; &lt;a href=&#34;http://spf13.com/project/nitro&#34;&gt;libraries&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;For this post, let&amp;rsquo;s explore the &amp;lsquo;gofmt&amp;rsquo; or &amp;lsquo;go fmt&amp;rsquo; tool further.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Hugo: A fast and flexible static site generator built in GoLang</title>
+      <link>https://spf13.com/project/hugo/</link>
+      <pubDate>Thu, 04 Jul 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://spf13.com/project/hugo/</guid>
+      <description>&amp;lt;img src=&amp;quot;/media/hugo.png&amp;quot; alt=&amp;quot;Hugo Website&amp;quot; /&amp;gt; &amp;lt;figcaption&amp;gt; &amp;lt;p&amp;gt; Hugo Website &amp;lt;/p&amp;gt; &amp;lt;/figcaption&amp;gt;  Hugo is a static site generator written in Go. It is optimized for speed, easy use and configurability. Hugo takes a directory with content and templates and renders them into a full html website.
+Hugo makes use of markdown files with front matter for meta data.
+Written in GoLang for speed, Hugo is significantly faster than most other static site generators.</description>
+    </item>
+    
+    <item>
+      <title>Nitro : A quick and simple profiler for golang</title>
+      <link>https://spf13.com/project/nitro/</link>
+      <pubDate>Wed, 19 Jun 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://spf13.com/project/nitro/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;pre&gt;&lt;code&gt;    &amp;lt;img src=&amp;quot;/media/nitro.png&amp;quot; alt=&amp;quot;Nitro&amp;quot; /&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Nitro is a quick and easy performance analyzer library for golang.
+It is useful for comparing A/B against different drafts of functions
+or different functions. Building on the standard pprof library, Nitro
+provides a very high level view of your application performance to help
+identify areas to investigate further. It also provides an easy metric
+to compare as you revise and improve each part of your application.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Go Go Hugo blog</title>
+      <link>https://spf13.com/post/go-go-hugo-blog/</link>
+      <pubDate>Mon, 17 Jun 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://spf13.com/post/go-go-hugo-blog/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;pre&gt;&lt;code&gt;    &amp;lt;img src=&amp;quot;/media/spf13-responsive.jpg&amp;quot; alt=&amp;quot;spf13 responsive website&amp;quot; /&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;After after a few months of work I&amp;rsquo;m happy to display the newest incarnation of spf13.com.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

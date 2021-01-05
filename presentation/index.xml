@@ -1,0 +1,469 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Presentations on Hacking Management</title>
+    <link>https://spf13.com/presentation/</link>
+    <description>Recent content in Presentations on Hacking Management</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright (c) 2008 - 2019, Steve Francia; all rights reserved.</copyright>
+    <lastBuildDate>Tue, 22 Oct 2019 00:00:00 +0800</lastBuildDate><atom:link href="https://spf13.com/presentation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Legacy of Go</title>
+      <link>https://spf13.com/presentation/the-legacy-of-go/</link>
+      <pubDate>Tue, 22 Oct 2019 00:00:00 +0800</pubDate>
+      
+      <guid>https://spf13.com/presentation/the-legacy-of-go/</guid>
+      <description>&lt;p&gt;This presentation was developed for &lt;a href=&#34;https://golab.io&#34;&gt;GoLab&lt;/a&gt; in Firenze Italy and delivered as the closing keynote of the conference. The presentation talks about legacy, looking both backwards and forwards. It talks about the legacy of langauage Go inherited and how it is paying respect to that legacy. It concludes talking about the legacy Go hopes to leave behind.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>What Should a Modern Practical Programming Language Look Like</title>
+      <link>https://spf13.com/presentation/what-should-a-modern-practical-programming-language-look-like/</link>
+      <pubDate>Fri, 05 Apr 2019 00:00:00 +0800</pubDate>
+      
+      <guid>https://spf13.com/presentation/what-should-a-modern-practical-programming-language-look-like/</guid>
+      <description>&lt;p&gt;Keynote delivered at &lt;a href=&#34;https://landingfestival.com/&#34;&gt;The Landing Festival – Berlin&lt;/a&gt;. This presentation describes the many inspirations and influences of the &lt;a href=&#34;http://golang.org&#34;&gt;Go programming language&lt;/a&gt; and goes into detail about how we shaped and created the language.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Product Management for Everyone</title>
+      <link>https://spf13.com/presentation/product-management-for-everyone/</link>
+      <pubDate>Thu, 04 Apr 2019 00:00:00 +0800</pubDate>
+      
+      <guid>https://spf13.com/presentation/product-management-for-everyone/</guid>
+      <description>&lt;p&gt;An interactive workshop developed for and given at &lt;a href=&#34;https://landingfestival.com/&#34;&gt;the Landing Festival&lt;/a&gt; in Berlin 2019.&lt;/p&gt;
+&lt;p&gt;This workshop covers:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;What a product manager does&lt;/li&gt;
+&lt;li&gt;How to become a product manager&lt;/li&gt;
+&lt;li&gt;Practice thinking like a product manager&lt;/li&gt;
+&lt;li&gt;Building product manager skills&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>Go – On The Shoulders of Giants</title>
+      <link>https://spf13.com/presentation/on-the-shoulders-of-giants/</link>
+      <pubDate>Tue, 17 Jul 2018 00:00:00 +0800</pubDate>
+      
+      <guid>https://spf13.com/presentation/on-the-shoulders-of-giants/</guid>
+      <description>&lt;p&gt;This presentation was developed for &lt;a href=&#34;http://www.curry-on.org/2018/&#34;&gt;Curry On&lt;/a&gt; and delivered as the closing keynote of the conference. The presentation describes the many inspirations and influences of the &lt;a href=&#34;http://golang.org&#34;&gt;Go programming language&lt;/a&gt; and goes into detail about how we shaped and created the language.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>演讲：Go, a global phenomenon (英语演讲)</title>
+      <link>https://spf13.com/presentation/go-a-global-phenomenon/</link>
+      <pubDate>Sat, 07 Jul 2018 00:00:00 +0800</pubDate>
+      
+      <guid>https://spf13.com/presentation/go-a-global-phenomenon/</guid>
+      <description>&lt;p&gt;This presentation was given in 深圳市 China, July 2018 as part of the &lt;a href=&#34;https://sz2018.archsummit.com/&#34;&gt;InfoQ ArchSummit conference&lt;/a&gt;. It covers why Go was created and it&amp;rsquo;s impact across the globe.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Drupal and the secret of my success</title>
+      <link>https://spf13.com/presentation/drupal-and-the-secret-of-my-success/</link>
+      <pubDate>Wed, 11 Apr 2018 00:00:00 +0800</pubDate>
+      
+      <guid>https://spf13.com/presentation/drupal-and-the-secret-of-my-success/</guid>
+      <description>&lt;p&gt;As my tenure on the &lt;a href=&#34;https://www.drupal.org/association&#34;&gt;Drupal Association&lt;/a&gt; was concluding, I was asked to give the Keynote for DrupalCon. It was my privilage to talk about my 20 year history with open source and how much I learned from and valued the Drupal community. &lt;a href=&#34;https://dri.es&#34;&gt;Dries&lt;/a&gt;, Drupal&amp;rsquo;s founder gave a touching &lt;a href=&#34;https://dri.es/how-drupal-influences-other-open-source-projects&#34;&gt;shoutout on his blog&lt;/a&gt; afterwards.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>State of the Go Nation – Gophercon Brasil 2017</title>
+      <link>https://spf13.com/presentation/state-of-the-go-nation-gophercon-brasil-2017/</link>
+      <pubDate>Sun, 19 Nov 2017 00:00:00 +0800</pubDate>
+      
+      <guid>https://spf13.com/presentation/state-of-the-go-nation-gophercon-brasil-2017/</guid>
+      <description>&lt;p&gt;This talk is an overview of the entire Go project. It covers “what we’ve done”, “why we did it” and “where we are going” as a project. It highlights our accomplishments, challenges and what the Go Project is doing to address our challenges.&lt;/p&gt;
+&lt;p&gt;It was delievered as the closing Keynote for Gophercon Brasil in 2017.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>State of the Go Nation – Gotham Go 2017</title>
+      <link>https://spf13.com/presentation/state-of-the-go-nation-gotham-go-2017/</link>
+      <pubDate>Mon, 09 Oct 2017 00:00:00 +0800</pubDate>
+      
+      <guid>https://spf13.com/presentation/state-of-the-go-nation-gotham-go-2017/</guid>
+      <description>&lt;p&gt;This talk is an overview of the entire Go project. It covers “what we’ve done”, “why we did it” and “where we are going” as a project. It highlights our accomplishments, challenges and what the Go Project is doing to address our challenges.&lt;/p&gt;
+&lt;p&gt;It was delievered as the opening Keynote for Gotham Go in 2017.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>State Of The Gopher Nation - Golang UK 2017</title>
+      <link>https://spf13.com/presentation/stateofthegophernation-aug17/</link>
+      <pubDate>Thu, 17 Aug 2017 10:09:53 -0400</pubDate>
+      
+      <guid>https://spf13.com/presentation/stateofthegophernation-aug17/</guid>
+      <description>I am at GolangUK in London, having just finished giving the opening keynote.
+I was a bit more nervous than usual, in part, due to the length of time since my last talk, and in part I was representing the entire Go project for the first time in a keynote.
+This talk is an overview of the entire Go project. It covers &amp;ldquo;what we&amp;rsquo;ve done&amp;rdquo;, &amp;ldquo;why we did it&amp;rdquo; and &amp;ldquo;where we are going&amp;rdquo; as a project.</description>
+    </item>
+    
+    <item>
+      <title>How to Contribute to Go</title>
+      <link>https://spf13.com/presentation/how-to-contribute-to-go/</link>
+      <pubDate>Mon, 24 Jul 2017 00:00:00 +0800</pubDate>
+      
+      <guid>https://spf13.com/presentation/how-to-contribute-to-go/</guid>
+      <description>&lt;p&gt;I wrote this presentation with &lt;a href=&#34;https://blog.jessfraz.com/&#34;&gt;Jessie Frazelle&lt;/a&gt;. She made it look very nice and delivered it at the &amp;ldquo;Go Contributor Workshop&amp;rdquo; at &lt;a href=&#34;https://www.gophercon.com/&#34;&gt;GopherCon&lt;/a&gt;. Some of the instructions are clearly only relevant to that workshop, but the vast majority of the presentation should be helpful to anyone wanting to contribute to Go.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Life, Liberty, and Golang</title>
+      <link>https://spf13.com/presentation/life-liberty-and-golang/</link>
+      <pubDate>Thu, 08 Jun 2017 00:00:00 +0800</pubDate>
+      
+      <guid>https://spf13.com/presentation/life-liberty-and-golang/</guid>
+      <description>&lt;p&gt;A semi-autobiographical presentation given to the winners of &lt;a href=&#34;https://codein.withgoogle.com/archive/2017/&#34;&gt;Google&amp;rsquo;s 2017 Code-in contest&lt;/a&gt;. This presentation covers the lessons I&amp;rsquo;ve learned over the years, and especially those I&amp;rsquo;ve learned as a member of the Go programming language team.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Building an Awesome CLI App in Go – OSCON 2017</title>
+      <link>https://spf13.com/presentation/building-an-awesome-cli-app-in-go-oscon/</link>
+      <pubDate>Tue, 09 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://spf13.com/presentation/building-an-awesome-cli-app-in-go-oscon/</guid>
+      <description>&lt;p&gt;A workshop written and delivered by &lt;a href=&#34;https://spf13.com&#34;&gt;Steve Francia&lt;/a&gt; and &lt;a href=&#34;https://twitter.com/ashleymcnamara&#34;&gt;Ashley McNamara&lt;/a&gt; at &lt;a href=&#34;https://conferences.oreilly.com/oscon/oscon-tx&#34;&gt;OSCON
+2017&lt;/a&gt; outlining the techniques, principles, and libraries you need to create
+user-friendly command-line interfaces and command suites before walking you
+through building your own app. Along the way, you’ll cover everything from how
+to design and build commands to working with and parsing flags, config files
+and remote config systems, and how to work with environment variables and
+12-factor apps. By the end of the workshop, you’ll have a working knowledge of
+Go and your very own functioning CLI app.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Building an Awesome Cli App in Go – Craft</title>
+      <link>https://spf13.com/presentation/building-an-awesome-cli-app-in-go-craft/</link>
+      <pubDate>Fri, 28 Apr 2017 00:00:00 +0800</pubDate>
+      
+      <guid>https://spf13.com/presentation/building-an-awesome-cli-app-in-go-craft/</guid>
+      <description>&lt;p&gt;A workshop written and delivered by &lt;a href=&#34;https://spf13.com&#34;&gt;Steve Francia&lt;/a&gt; and &lt;a href=&#34;https://twitter.com/ashleymcnamara&#34;&gt;Ashley McNamara&lt;/a&gt; at &lt;a href=&#34;https://craft-conf.com/2017&#34;&gt;CRAFT
+2017&lt;/a&gt; outlining the techniques, principles, and libraries you need to create
+user-friendly command-line interfaces and command suites before walking you
+through building your own app. Along the way, you’ll cover everything from how
+to design and build commands to working with and parsing flags, config files
+and remote config systems, and how to work with environment variables and
+12-factor apps. By the end of the workshop, you’ll have a working knowledge of
+Go and your very own functioning CLI app.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>the future of the Operating System - LinuxCon 2015 keynote</title>
+      <link>https://spf13.com/presentation/the-future-of-the-os-linuxcon-2015-keynote/</link>
+      <pubDate>Fri, 05 Jun 2015 10:43:50 +0900</pubDate>
+      
+      <guid>https://spf13.com/presentation/the-future-of-the-os-linuxcon-2015-keynote/</guid>
+      <description>Given as a keynote at LinuxCon + CloudOpen Japan 2015.
+Linux has become the foundation for infrastructure everywhere as it defined application portability from the desktop to the phone and from to the data center to the cloud. As applications become increasingly distributed in nature, the Docker platform serves as the cornerstone of Linux’s evolution solidifying the dominance of Linux today and into tomorrow.
+Transcript  The Future of the Operating System What is an Operating System ?</description>
+    </item>
+    
+    <item>
+      <title>7 common mistakes in Go – GopherFest 2015</title>
+      <link>https://spf13.com/presentation/7-common-mistakes-in-go-2015/</link>
+      <pubDate>Wed, 27 May 2015 12:28:12 -0700</pubDate>
+      
+      <guid>https://spf13.com/presentation/7-common-mistakes-in-go-2015/</guid>
+      <description>Given at GopherFest 2015. This is an updated version of the talk I gave in NYC Nov 14 at GothamGo.
+“We need to think about failure differently. Most people think mistakes are a necessary evil. Mistakes aren&amp;rsquo;t a necessary evil, they aren&amp;rsquo;t evil at all. They are an inevitable consequence of doing something new and as such should be seen as valuable. “ - Ed Catmull
+As Go is a &amp;ldquo;new&amp;rdquo; programming language we are all experimenting and learning how to write better Go.</description>
+    </item>
+    
+    <item>
+      <title>What Every Open Source Project Needs</title>
+      <link>https://spf13.com/presentation/what-every-open-source-project-needs/</link>
+      <pubDate>Fri, 20 Mar 2015 18:00:02 -0400</pubDate>
+      
+      <guid>https://spf13.com/presentation/what-every-open-source-project-needs/</guid>
+      <description>In the last few years open source has transformed the software industry. From Android to Wikipedia, open source is everywhere, but how does one succeed in it? While open source projects come in all shapes and sizes and all forms of governance, no matter what kind of project you’re a part of, there are a set of fundamentals that lead to success. I’d like to share some of the lessons I’ve learned from running two of the largest commercial open source projects, Docker &amp;amp; MongoDB , as well as some very successful community based projects (Hugo, spf13-vim, Cobra, Viper, Zoop).</description>
+    </item>
+    
+    <item>
+      <title>7 Common mistakes in Go and when to avoid them – Gotham Go</title>
+      <link>https://spf13.com/presentation/7-biggest-mistakes-in-go/</link>
+      <pubDate>Tue, 18 Nov 2014 14:06:00 -0500</pubDate>
+      
+      <guid>https://spf13.com/presentation/7-biggest-mistakes-in-go/</guid>
+      <description>Not a generic list of programming mistakes, these are the lessons I wish I learned earlier while developing Go. I&amp;rsquo;ve spent the past two years developing some of the most popular libraries and applications written in Go. I&amp;rsquo;ve also made a lot of mistakes along the way. Recognizing that &amp;ldquo;The only real mistake is the one from which we learn nothing. -John Powell&amp;rdquo;, I would like to share with you the mistakes that I have made over my journey with Go and when you can avoid them.</description>
+    </item>
+    
+    <item>
+      <title>Go for Object Oriented Programmers</title>
+      <link>https://spf13.com/presentation/go-for-object-oriented-programmers/</link>
+      <pubDate>Thu, 31 Jul 2014 04:20:08 +0000</pubDate>
+      
+      <guid>https://spf13.com/presentation/go-for-object-oriented-programmers/</guid>
+      <description>This presentation was given at OSCON 2014.
+Object Oriented (OO) programming has dominated software engineering for the last two decades. The paradigm built on powerful concepts such as Encapsulation, Inheritance, and Polymoprhism has been internalized by the majority of software engineers. Although Go is not OO in the strict sense, we can continue to leverage the skills we’ve honed as OO engineers to come up with simple and solid designs.</description>
+    </item>
+    
+    <item>
+      <title>Using MongoDB with Go and mgo</title>
+      <link>https://spf13.com/presentation/mongodb-and-go/</link>
+      <pubDate>Wed, 23 Jul 2014 09:48:46 +0000</pubDate>
+      
+      <guid>https://spf13.com/presentation/mongodb-and-go/</guid>
+      <description>This presentation was given at OSCON 2014.
+This presentation will give developers an introduction and practical experience of using MongoDB with the Go language. MongoDB Chief Developer Advocate &amp;amp; Gopher Steve Francia presents plainly what you need to know about using MongoDB with Go.
+As an emerging language Go is able to start fresh without years of relational database dependencies. Application and library developers are able to build applications using the excellent Mgo MongoDB driver and the reliable go sql package for relational database.</description>
+    </item>
+    
+    <item>
+      <title>Getting Started with Go</title>
+      <link>https://spf13.com/presentation/first-go-app/</link>
+      <pubDate>Sun, 20 Jul 2014 08:51:33 +0000</pubDate>
+      
+      <guid>https://spf13.com/presentation/first-go-app/</guid>
+      <description>This presentation was given as a Workshop at OSCON 2014.
+Description New to Go? This tutorial will give developers an introduction and practical experience in building applications with the Go language. Gopher Steve Francia, Author of Hugo, Cobra, and many other popular Go packages breaks it down step by step as you build your own full featured Go application.
+Starting with an introduction to the Go language. He then reviews the fantastic go tools available.</description>
+    </item>
+    
+    <item>
+      <title>Painless Datastorage With Mongodb and Go – Gophercon 2014</title>
+      <link>https://spf13.com/presentation/painless-datastorage-with-mongodb-and-go/</link>
+      <pubDate>Fri, 25 Apr 2014 00:00:00 +0800</pubDate>
+      
+      <guid>https://spf13.com/presentation/painless-datastorage-with-mongodb-and-go/</guid>
+      <description>&lt;p&gt;Find out why some people claim Go and MongoDB are a &amp;ldquo;pair made in heaven&amp;rdquo; and &amp;ldquo;the best database driver they&amp;rsquo;ve ever used&amp;rdquo; in this talk by Gustavo Niemeyer, the author of the mgo driver, and Steve Francia, the drivers team lead at MongoDB Inc.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Build your first MongoDB App in Ruby @ StrangeLoop 2013</title>
+      <link>https://spf13.com/presentation/building-your-first-mongodb-app-in-ruby-strangeloop-2013/</link>
+      <pubDate>Mon, 23 Sep 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://spf13.com/presentation/building-your-first-mongodb-app-in-ruby-strangeloop-2013/</guid>
+      <description>&lt;p&gt;An updated version of the &lt;a href=&#34;presentation/building-your-first-mongodb-app-oscon-2012/&#34;&gt;very popular workshop I gave at OSCON last year&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;This presentation was given at Strangeloop 2013 as a 3 hour interactive workshop.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Building Modern Web Applications</title>
+      <link>https://spf13.com/presentation/building-modern-web-applications/</link>
+      <pubDate>Mon, 05 Aug 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://spf13.com/presentation/building-modern-web-applications/</guid>
+      <description>I gave this presentation to a packed house at DevCon5 in NYC July 24th. DevCon5 is a web developers conference and this year it focused on HTML5. This was one of the hardest presentations I&amp;rsquo;ve worked on for the simple fact that the audience had name recognition, but not familiarity with the database industry. Typically I&amp;rsquo;ve leaned on the fact that most participants were familiar with at least one database prior to my presentation, I had no such luxury here.</description>
+    </item>
+    
+    <item>
+      <title>MongoDB and PHP Webinar</title>
+      <link>https://spf13.com/presentation/mongodb-and-php/</link>
+      <pubDate>Fri, 12 Jul 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://spf13.com/presentation/mongodb-and-php/</guid>
+      <description>This is a 90 minute MongoDB tutorial on using MongoDB in PHP which I gave as a webcast for O&amp;rsquo;Reilly last year.. The tutorial covers everything from Installing MongoDB along with installing and configuring the MongoDB PHP driver. You will learn how to work with MongoDB from within PHP as well as within the MongoDB shell.
+What would happen if you optimized a data store for the operations application developers to actually use?</description>
+    </item>
+    
+    <item>
+      <title>The Future of Data</title>
+      <link>https://spf13.com/presentation/the-future-of-data/</link>
+      <pubDate>Wed, 27 Mar 2013 00:00:00 +0800</pubDate>
+      
+      <guid>https://spf13.com/presentation/the-future-of-data/</guid>
+      <description>&lt;p&gt;A presentation given as part of &lt;a href=&#34;https://firstround.com/&#34;&gt;First Round Capital&amp;rsquo;s&lt;/a&gt; Hack+Startup conference.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>MongoDB, Hadoop and humongous data at MongoSV 2012</title>
+      <link>https://spf13.com/presentation/mongodb-hadoop-humongous-data-mongosv-2012/</link>
+      <pubDate>Thu, 06 Dec 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://spf13.com/presentation/mongodb-hadoop-humongous-data-mongosv-2012/</guid>
+      <description>This presentation given at MongoSV 2012 focuses on data processing when using MongoDB as your primary database including integration with Hadoop &amp;amp; the new MongoDB aggregation framework. Learn how to integrate MongoDB with Hadoop for large-scale distributed data processing. Using tools like MapReduce, Pig and Streaming you will learn how to do analytics and ETL on large datasets with the ability to load and save data against MongoDB. With Hadoop MapReduce, Java and Scala programmers will find a native solution for using MapReduce to process their data with MongoDB.</description>
+    </item>
+    
+    <item>
+      <title>Not Just Hadoop: NoSQL in the Enterprise at Strata NYC 2012</title>
+      <link>https://spf13.com/presentation/big-data-for-the-rest-of-us-at-nyc-strata-2012/</link>
+      <pubDate>Mon, 29 Oct 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://spf13.com/presentation/big-data-for-the-rest-of-us-at-nyc-strata-2012/</guid>
+      <description>At the NYC Strata &amp;amp; Hadoop World conference I presented on ‘Not Just Hadoop: NoSQL in the Enterprise’. Robert Lancaster from Orbitz joined me on stage for the final presentation of the Bridge to Big Data track. Mark Madsen did a great job moderating the session and kept the energy high the entire day. Robert shared how Orbitz uses MongoDB with Apache Hadoop to provide real time rates. This is my second time presenting at Strata’s Big Data conference.</description>
+    </item>
+    
+    <item>
+      <title>Building your first MongoDB app - OSCON 2012</title>
+      <link>https://spf13.com/presentation/building-your-first-mongodb-app-oscon-2012/</link>
+      <pubDate>Tue, 24 Jul 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://spf13.com/presentation/building-your-first-mongodb-app-oscon-2012/</guid>
+      <description>&amp;lt;img src=&amp;quot;/media/MongoDB-at-oscon-2012.png&amp;quot; /&amp;gt;  This is a 3 hour tutorial I wrote for and gave at OSCON 2012.
+Here is the summary:
+This tutorial will introduce the features of MongoDB by building a simple location-based application using MongoDB. The tutorial will cover the basics of MongoDB’s document model, query language, map-reduce framework and deployment architecture.
+The tutorial will be divided into 5 sections:
+ Data modeling with MongoDB: documents, collections and databases Querying your data: simple queries, geospatial queries, and text-searching Writes and updates: using MongoDB’s atomic update modifiers Trending and analytics: Using mapreduce and MongoDB’s aggregation framework Deploying the sample application  Besides the knowledge to start building their own applications with MongoDB, attendees will finish the session with a working application they use to check into locations around Portland from any HTML5 enabled phone!</description>
+    </item>
+    
+    <item>
+      <title>Replication, Durability, and Disaster Recovery</title>
+      <link>https://spf13.com/presentation/replication-durability-and-disaster-recovery/</link>
+      <pubDate>Mon, 25 Jun 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://spf13.com/presentation/replication-durability-and-disaster-recovery/</guid>
+      <description>This session introduces the basic components of high availability before going into a deep dive on MongoDB replication. We’ll explore some of the advanced capabilities with MongoDB replication and best practices to ensure data durability and redundancy. We’ll also look at various deployment scenarios and disaster recovery configurations.
+Replication, Durability, and Disaster Recovery
+View more presentations from Steve Francia</description>
+    </item>
+    
+    <item>
+      <title>Multi Data Center Strategies and MongoDB</title>
+      <link>https://spf13.com/presentation/multi-data-center-strategies/</link>
+      <pubDate>Tue, 05 Jun 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://spf13.com/presentation/multi-data-center-strategies/</guid>
+      <description>Strategies for multi-data center deployment. Diving into the details of deploying of MongoDB across multiple data centers.
+Covers the advantages of a multi data center deployment for read/write locality, the various deployment strategies, and disaster preparedness and recovery.
+In addition, we’ll look at the MongoDB roadmap and planned enhancements around data center awareness.
+This presentation was given at MongoNYC 2012. The animations didn’t survive the transformation to the web, so not all the meaning carries over perfectly.</description>
+    </item>
+    
+    <item>
+      <title>NoSQL databases and Managing Big Data</title>
+      <link>https://spf13.com/presentation/nosql-databases-and-managing-big-data/</link>
+      <pubDate>Tue, 08 May 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://spf13.com/presentation/nosql-databases-and-managing-big-data/</guid>
+      <description>I had the unique opportunity to present at the annual technology forum Insight Venture Partners holds for their portfolio companies. Over 100 CTOs gathered in NYC to hear from great presenters from companies like 10gen, Tumblr, Shutterstock and Buddy Media.
+I’ve included a slightly longer version of the presentation given which includes a few slides that I cut out for brevity to fit in the allocated time while still allowing time for questions.</description>
+    </item>
+    
+    <item>
+      <title>MongoDB, Hadoop and Humongous Data</title>
+      <link>https://spf13.com/presentation/mongodb-hadoop-and-humongous-data/</link>
+      <pubDate>Fri, 04 May 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://spf13.com/presentation/mongodb-hadoop-and-humongous-data/</guid>
+      <description>Learn how to integrate MongoDB with Hadoop for large-scale distributed data processing. Using Hadoop’s MapReduce and Streaming you will learn how to do analytics and ETL on large datasets with the ability to load and save data against MongoDB. With support for Hadoop streaming support goes beyond the native Java enabling map reduce to be run in languages like Python and Ruby.
+MongoDB, Hadoop and Humongous Data
+View more presentations from Steve Francia</description>
+    </item>
+    
+    <item>
+      <title>MongoDB and Hadoop</title>
+      <link>https://spf13.com/presentation/mongodb-and-hadoop/</link>
+      <pubDate>Thu, 01 Mar 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://spf13.com/presentation/mongodb-and-hadoop/</guid>
+      <description>Learn how to integrate MongoDB with Hadoop for large-scale distributed data processing. Using tools like MapReduce, Pig and Streaming you will learn how to do analytics and ETL on large datasets with the ability to load and save data against MongoDB. With Hadoop MapReduce, Java and Scala programmers will find a native solution for using MapReduce to process their data with MongoDB. Programmers of all kinds will find a new way to work with ETL using Pig to extract and analyze large datasets and persist the results to MongoDB.</description>
+    </item>
+    
+    <item>
+      <title>MongoDB for Genealogy at RootsTech 2012</title>
+      <link>https://spf13.com/presentation/mongodb-for-genealogy-at-rootstech-2012/</link>
+      <pubDate>Fri, 03 Feb 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://spf13.com/presentation/mongodb-for-genealogy-at-rootstech-2012/</guid>
+      <description>After an enjoyable time at the SORT conference in 2011 I was invited to come back to SLC to present at the RootsTech Genealogy conference.
+The two hardest data types to model are e-commerce and genealogy. There really just isn’t any good way to do it in a relational database. MongoDB is the answer Genealogy developers have been looking for for a very long time. A flexible schema that allows adhoc searching, horizontal scale and full data integrity.</description>
+    </item>
+    
+    <item>
+      <title>Hybrid MongoDB / SQL Applications</title>
+      <link>https://spf13.com/presentation/hybrid-mongodb-sql-applications/</link>
+      <pubDate>Fri, 06 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://spf13.com/presentation/hybrid-mongodb-sql-applications/</guid>
+      <description>MongoDB is often used alongside a relational database such as Oracle or MySQL. It is often unclear when one should use one or the other, or if a combination is really ideal. During this online presentation, we will discuss the ideal use cases for each, and how they can be used in conjunction. We’ll make sure to touch on several real world examples.
+The full recording can be found at 10gen’s site at http://www.</description>
+    </item>
+    
+    <item>
+      <title>Building your First app with MongoDB at MongoSV 2011</title>
+      <link>https://spf13.com/presentation/building-your-first-app-with-mongodb-at-mongosv-2011/</link>
+      <pubDate>Sat, 10 Dec 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://spf13.com/presentation/building-your-first-app-with-mongodb-at-mongosv-2011/</guid>
+      <description>10gen had our flagship conference in Silicon Valley. I gave an introductory presentation at the first session on building an application in MongoDB. This talk will introduce the features of MongoDB by walking through how one can building a simple location-based application using MongoDB. It covers the basics of MongoDB’s document model, query language, map-reduce framework and deployment architecture.
+Building your first application w/mongoDB MongoSV2011
+View more presentations from Steve Francia</description>
+    </item>
+    
+    <item>
+      <title>E-commerce in LA</title>
+      <link>https://spf13.com/presentation/ecommerce-in-la/</link>
+      <pubDate>Thu, 08 Dec 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://spf13.com/presentation/ecommerce-in-la/</guid>
+      <description>&amp;lt;img src=&amp;quot;/media/I-Leaf-LA4.png&amp;quot; alt=&amp;quot;I leaf LA&amp;quot; /&amp;gt;  This week I joined a few of my co-workers down in LA. We met with a few companies and ran the MongoDB LA Users Group. Notably I met with Magento about the possibility of Magento 2.0 being built on MongoDB. On my final night in LA I presented on MongoDB, E-commerce and Transactions.
+I really enjoyed my time in LA and am looking forward to returning.</description>
+    </item>
+    
+    <item>
+      <title>MongoDB, PHP and the Cloud - PHP Cloud Summit 2011</title>
+      <link>https://spf13.com/presentation/mongodb-php-and-the-cloud-php-cloud-summit-2011/</link>
+      <pubDate>Wed, 30 Nov 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://spf13.com/presentation/mongodb-php-and-the-cloud-php-cloud-summit-2011/</guid>
+      <description>I had the opportunity to present at the PHP Cloud Summit 2011 among some great presenters. This was first time speaking at an online conference. Thanks to the diligent efforts from Cal, Keith and Jeremy at PHPArch it was a really successful experience. I actually presented with two Macbooks. One open to IRC where questions were coming in and the other open to the presentation. In spite of it being all online, the audience asked some great questions and it was really fun to interact with them.</description>
+    </item>
+    
+    <item>
+      <title>MongoDB and PHP at ZendCon 2011</title>
+      <link>https://spf13.com/presentation/mongodb-and-php-at-zendcon-2011/</link>
+      <pubDate>Thu, 20 Oct 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://spf13.com/presentation/mongodb-and-php-at-zendcon-2011/</guid>
+      <description>Presentation given at PHP’s biggest conference, ZendCon 2011. Covers the basics of using MongoDB with PHP.
+MongoDB and PHP ZendCon 2011
+View more presentations from Steve Francia.</description>
+    </item>
+    
+    <item>
+      <title>MongoDB at SORT Conference 2011</title>
+      <link>https://spf13.com/presentation/mongodb-sort-conference-2011/</link>
+      <pubDate>Thu, 20 Oct 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://spf13.com/presentation/mongodb-sort-conference-2011/</guid>
+      <description>This presentation was given at the LDS Tech SORT Conference 2011 in Salt Lake City. The slides are quite comprehensive covering many topics on MongoDB. Rather than a traditional presentation, this was presented as more of a Q &amp;amp; A session. Topics covered include. Introduction to MongoDB, Use Cases, Schema design, High availability (replication) and Horizontal Scaling (sharding).
+MongoDB
+View more presentations from Steve Francia.</description>
+    </item>
+    
+    <item>
+      <title>MongoDB, E-Commerce and Transactions</title>
+      <link>https://spf13.com/presentation/mongodb-e-commerce-and-transactions/</link>
+      <pubDate>Tue, 27 Sep 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://spf13.com/presentation/mongodb-e-commerce-and-transactions/</guid>
+      <description>Last week I had the pleasure of attending MongoUK in London. I had a great time presenting and meeting new friends. I even survived two whiteboard sessions where people were invited to ask any question, any at all, about MongoDB.
+I gave a pretty significatly revised presentation on MongoDB and E-Commerce with emphasis on transactions. If you saw the presentation at MongoNYC this summer, it’s worth a revisit.</description>
+    </item>
+    
+    <item>
+      <title>Blending Mongo and RDBMS for ecommerce</title>
+      <link>https://spf13.com/presentation/blending-mongo-and-rdbms-for-ecommerce/</link>
+      <pubDate>Thu, 09 Jun 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://spf13.com/presentation/blending-mongo-and-rdbms-for-ecommerce/</guid>
+      <description>Justin Hileman and I presented at MongoNYC 2011 to a packed house. Our presentation outlines both why someone would want to use MongoDB for ecommerce and how we overcame some of it’s limitations by incorporating mysql into our infrastructure.
+ &amp;lt;img src=&amp;quot;/media/l6zwy.jpg&amp;quot; /&amp;gt; &amp;lt;figcaption&amp;gt; &amp;lt;h4&amp;gt;Presenting at MongoNYC 2011&amp;lt;/h4&amp;gt; &amp;lt;/figcaption&amp;gt;  Blending MongoDB and RDBMS for ecommerce
+View more presentations from Steve Francia.</description>
+    </item>
+    
+    <item>
+      <title>Augmenting RDBMS with NoSQL for e-commerce</title>
+      <link>https://spf13.com/presentation/augmenting-rdbms-with-nosql-for-e-commerce/</link>
+      <pubDate>Sun, 10 Apr 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://spf13.com/presentation/augmenting-rdbms-with-nosql-for-e-commerce/</guid>
+      <description>&amp;lt;img src=&amp;quot;/media/postgresconNYC_ss.png&amp;quot; alt=&amp;quot;postgres con&amp;quot; /&amp;gt;  Justin Hileman and I gave a presentation on “Augmenting RDBMS with NoSQL for e-commerce” at the PgEast 2011 conference. This presentation is really the sequel (no pun intended) to my presentation, MongoDB &amp;amp; Ecommerce : A Perfect Combination. This presentation takes you through how we created a hybrid solution blending both sql and nosql to achieve an optimal solution.
+Augmenting RDBMS with MongoDB for ecommerce</description>
+    </item>
+    
+    <item>
+      <title>MongoDB &amp; Ecommerce : A Perfect Combination</title>
+      <link>https://spf13.com/presentation/mongodb-ecommerce-a-perfect-combination/</link>
+      <pubDate>Wed, 20 Oct 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://spf13.com/presentation/mongodb-ecommerce-a-perfect-combination/</guid>
+      <description>Last night I gave a presentation on MongoDB &amp;amp; Ecommerce. OpenSky is the first company to use MongoDB in production for ecommerce. I shared why we went this route, and why it’s an obvious and powerful combination. At OpenSky we use MongoDB to develop the next ecommerce platform. OpenSky also uses Symfony 2, Doctrine 2, PHP 5.3, PHPUnit 3.5, jQuery, node.js, Git (with gitflow) and a touch of Java and Python.</description>
+    </item>
+    
+  </channel>
+</rss>

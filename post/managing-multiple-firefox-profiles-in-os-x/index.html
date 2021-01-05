@@ -1,0 +1,346 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en-US" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#">
+<head>
+    <meta charset="utf-8">
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="description" content="">
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<meta name="description" content="Sometimes you need more than one profile in Firefox. This post will show you how to manage multiple profiles in Firefox.">
+<meta name="keywords" content="firefox, mac, OS X, profile, script, ">
+
+ 
+<meta property="og:type" content="article"/>
+<meta property="og:description" content="Sometimes you need more than one profile in Firefox. This post will show you how to manage multiple profiles in Firefox."/>
+<meta property="og:title" content="Managing Multiple Firefox Profiles in OS X : spf13.com"/>
+<meta property="og:site_name" content="spf13 is Steve Francia"/>
+<meta property="og:image" content="" />
+<meta property="og:image:type" content="image/jpeg" />
+<meta property="og:image:width" content="" />
+<meta property="og:image:height" content="" />
+<meta property="og:url" content="https://spf13.com/post/managing-multiple-firefox-profiles-in-os-x/">
+<meta property="og:locale" content="en_US">
+<meta property="article:published_time" content="2008-08-27"/>
+<meta property="article:modified_time" content="2008-08-27"/>
+
+
+
+<meta property="article:tag" content="firefox">
+<meta property="article:tag" content="mac">
+<meta property="article:tag" content="OS X">
+<meta property="article:tag" content="profile">
+<meta property="article:tag" content="script">
+
+
+
+
+<meta name="twitter:card" content="summary">
+
+<meta name="twitter:site" content="@spf13">
+<meta name="twitter:title" content="Managing Multiple Firefox Profiles in OS X : spf13.com">
+<meta name="twitter:creator" content="@spf13">
+<meta name="twitter:description" content="Sometimes you need more than one profile in Firefox. This post will show you how to manage multiple profiles in Firefox.">
+<meta name="twitter:image:src" content="">
+<meta name="twitter:domain" content="spf13.com">
+
+
+
+    <base href="https://spf13.com/">
+    <title> Managing Multiple Firefox Profiles in OS X - spf13.com </title>
+    <link rel="canonical" href="https://spf13.com/post/managing-multiple-firefox-profiles-in-os-x/">
+    
+
+    <link href='https://fonts.googleapis.com/css?family=Fjalla+One|Open+Sans:300' rel='stylesheet' type='text/css'>
+
+<link rel="stylesheet" href="https://spf13.com/css/ZGS.min.8b403dad8c58a1830355fb210b5ead5e5472e11a4e5d7bfe5ee2931e6a2c54e8.css">
+    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+</head>
+
+<body lang="en" itemscope itemtype="http://schema.org/Article">
+<header id="header">
+    <figure>
+      <a href="/" border=0 id="logolink"><div class="icon-spf13-3" id="logo"> </div></a>
+    </figure>
+    <nav id="nav">
+            <ul id="mainnav">
+            <li>
+                <a href="/post/">
+                <span class="icon"> <i aria-hidden="true" class="icon-quill"></i></span>
+                <span> articles </span>
+            </a>
+            </li>
+            <li>
+            <a href="/project/">
+                <span class="icon"> <i aria-hidden="true" class="icon-console"></i></span>
+                <span> projects </span>
+            </a>
+            </li>
+            <li>
+            <a href="/presentation/">
+                <span class="icon"> <i aria-hidden="true" class="icon-stats"></i></span>
+                <span> presentations </span>
+            </a>
+            </li>
+        </ul>
+
+            <ul id="social">
+            <li id="follow">
+                <span class="title"> follow </span>
+                <div class="dropdown follow">
+                    <ul class="social">
+                        <li> <a href="https://feeds.feedburner.com/spf13" target="_blank" title="Subscribe by RSS" class="rss"><span class="icon icon-feed-2"></span>RSS</a> </li>
+                        <li> <a href="https://www.twitter.com/spf13" target="_blank" title="Follow me on Twitter" class="twitter"><span class="icon icon-twitter"></span>Twitter</a> </li>
+                        <li> <a href="https://www.facebook.com/stevefrancia" target="_blank" title="Join me on Facebook" class="facebook"><span class="icon icon-facebook"></span>Facebook</a> </li>
+                        <li> <a href="https://www.linkedin.com/in/stevefrancia" target="_blank" title="LinkedIn" class="linkedin"><span class="icon icon-linkedin"></span>LinkedIn</a> </li>
+                        <li> <a href="https://github.com/spf13" target="_blank" title="GitHub" class="github"><span class="icon icon-github"></span>GitHub</a> </li>
+                        <li> <a href="https://slideshare.com/spf13" target="_blank" title="SlideShare" class="slideshare"><span class="icon icon-slideshare"></span>SlideShare</a> </li>
+                    </ul>
+                    <span class="subcount">join 40k+ subscribers &amp; followers</span>
+                </div>
+            </li>
+        </ul>
+
+    </nav>
+</header>
+
+
+
+<section id="main">
+  <h1 itemprop="name" id="title">Managing Multiple Firefox Profiles in OS X</h1>
+  <div>
+        <article itemprop="articleBody" id="content">
+           <!-- raw HTML omitted -->
+<pre><code>    &lt;img src=&quot;/media/Firefox_3.5_logo.png&quot; alt=&quot;Image via Wikipedia&quot; /&gt;
+
+
+&lt;figcaption&gt;
+    &lt;p&gt;
+    Image via Wikipedia
+    
+        
+    
+    &lt;/p&gt; 
+&lt;/figcaption&gt;
+</code></pre>
+<!-- raw HTML omitted -->
+<p>One of the great features of
+<a href="http://www.mozilla.com/en-US/firefox/" title="Firefox">Firefox</a> is the
+ability to manage multiple profiles. This is a very handy feature with
+many different uses. Unfortunately, it isn’t easy to do on a
+<a href="http://apple.com/macosx/" title="Mac OS X">mac</a>. I will show you how to setup
+multiple profiles on a mac that appear and run like normal mac
+applications so you can click on them and run them from quicksilver.</p>
+<p><em>UPDATED 10/16/09 : Now working with Snow Leopard!</em></p>
+<p>Firefox is a great browser in any operating system. One of the great
+features of Firefox is the many extensions that can alter or add
+functionality to the browser. If you are like me, you use quite a few
+extensions. While these extensions make life easier, they also slow down
+firefox. I use two different profiles, one with all my extensions
+loaded, which I use for work. And one without any extensions which I use
+for light browsing, watching videos and checking mail.</p>
+<h2 id="setting-up-your-profiles">Setting up your profiles</h2>
+<!-- raw HTML omitted -->
+<pre><code>    &lt;img src=&quot;/media/2805197674_ea2ba50cf8_o.jpg&quot;  /&gt;
+</code></pre>
+<!-- raw HTML omitted -->
+<p>So we will use the Terminal, but just once here. Fire up the Terminal,
+it is found in <em>Applications &lt;&lt; Utilities &lt; &lt; Terminal</em>. And run the
+following:</p>
+<pre><code>/Applications/Firefox.app/Contents/MacOS/firefox-bin --profilemanager
+</code></pre>
+<!-- raw HTML omitted -->
+<pre><code>    &lt;img src=&quot;/media/2805184392_3e37c90c6a_o.jpg&quot;  /&gt;
+</code></pre>
+<!-- raw HTML omitted -->
+<p>A window will appear. Create your profiles. I created two called “Heavy”
+and “Lite”. Whatever you call your pofiles, write it down and remember
+the names are case sensitive.</p>
+<h2 id="creating-the-scripts">Creating the scripts</h2>
+<p>You will want to repeat the following for each of your profiles</p>
+<ol>
+<li>
+<p>Open the script editor</p>
+</li>
+<li>
+<p>Add the following line replacing profileName with your profile name.</p>
+<p>do shell script &ldquo;/Applications/Firefox.app/Contents/MacOS/firefox-bin -P profileName&rdquo;</p>
+</li>
+<li>
+<p>Save the script as an Application Bundle. I called mine FFHeavy
+which seems to work well</p>
+</li>
+<li>
+<p>Control-click the icon &lt; Show Package Contents. A “Contents” window
+will appear.</p>
+</li>
+<li>
+<p>Edit the file <em>Contents &lt; Info.plist</em> with your favorite editor</p>
+</li>
+<li>
+<p>Look for the entry &lt; key&gt;LSRequiresCarbon&lt;/key&gt; &lt;true/&gt;</p>
+</li>
+<li>
+<p>Add these two lines after that entry.</p>
+<p><!-- raw HTML omitted -->LSUIElement<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->1<!-- raw HTML omitted --></p>
+</li>
+<li>
+<p>Save the Script</p>
+</li>
+</ol>
+<!-- raw HTML omitted -->
+<pre><code>    &lt;img src=&quot;/media/2805187776_19ed9d70f8_o.jpg&quot;  /&gt;
+</code></pre>
+<!-- raw HTML omitted -->
+<h2 id="changing-the-icon">Changing the Icon</h2>
+<!-- raw HTML omitted -->
+<pre><code>    &lt;img src=&quot;/media/2805178960_bf4598da72_o.jpg&quot;  /&gt;
+</code></pre>
+<!-- raw HTML omitted -->
+<p>By default your newly created script will have a “script” icon, not all
+all representative of what it does. Let’s change that to a more relevant
+icon.</p>
+<p>You can use any image you want. I found a good one
+on <a href="http://www.gnome-look.org/content/show.php/Firefox+Icons?content=47617">gnome-look</a>.
+Unfortunately OS X requires icons to be in the icns format. There is a
+handy Opensource application that can turn images into icns
+files. <a href="http://www.shinyfrog.net/en/software/img2icns/">img2icns from
+shinyfrog</a>. Png files
+work well as they are already 24 bit and transparent.</p>
+<p>Run img2icns and drag your png file(s) onto the dock icon for img2icns.
+It will place the newly created icns file on the Desktop by default.
+“Get Info” on the script you created and drag the icon onto the icon
+towards the top of the get info window.</p>
+<p>You now have a working icon and alias/script/shortcut to your profile</p>
+
+        </article>
+  </div>
+</section>
+
+
+
+<aside id="meta">
+
+    <div>
+        <section id="datecount">
+          <h4 id="date"> Wed Aug 27, 2008 </h4>
+          <h5 id="wc"> 500 Words </h5>
+          <h5 id="readtime"> Read in about 3 Min </h5>
+        </section>
+        <ul id="categories">
+          
+            <li><a href="https://spf13.com//topics/personal">Personal</a> </li>
+          
+        </ul>
+        <ul id="tags">
+          
+            <li> <a href="https://spf13.com//tags/firefox">firefox</a> </li>
+          
+            <li> <a href="https://spf13.com//tags/mac">mac</a> </li>
+          
+            <li> <a href="https://spf13.com//tags/os-x">OS X</a> </li>
+          
+            <li> <a href="https://spf13.com//tags/profile">profile</a> </li>
+          
+            <li> <a href="https://spf13.com//tags/script">script</a> </li>
+          
+        </ul>
+    </div>
+
+    <div>
+        <section id="prev">
+            &nbsp;<a class="previous" href="https://spf13.com/post/using-svk-to-increase-productivity/"><i class="icon-arrow-left"></i> Using SVK to Increase Productivity</a><br>
+        </section><section id="next">
+            &nbsp;<a class="next" href="https://spf13.com/post/why-are-you-still-shopping-offline/">Why are you still shopping offline? <i class="icon-arrow-right"></i></a>
+        </section>
+    </div>
+
+    <div> <section id="author"> <h4>About the Author:</h4> 
+
+            <p>
+            Steve Francia is an American Software Engineer, Speaker & Author
+            based in NYC. He has the unique distinction of 
+            leadership roles in five of the largest open source projects. 
+            </p>
+
+            <p>
+            He currently works at <a href="http://google.com">Google</a> on the leadership team 
+            of <a href="http://golang.org">the Go
+                language</a> where  he is responsible for the strategy and product of
+            the Go project and it's over 1M users.
+            </p>
+
+            <p>
+            He previously held executive roles at <a href="http://docker.com">Docker</a>, <a
+            href="http://mongodb.com">MongoDB</a> where he
+            led engineering, product and open source. 
+            He formerly was a director of the <a href="http://drupal.org">Drupal Association</a>.
+            </p>
+            
+            <p> 
+            He is the creator of some of the world's most popular open source applications and libraries including <a href="http://gohugo.io">Hugo</a>, <a
+                href="http://github.com/spf13/cobra">Cobra</a>, <a
+                href="http://github.com/spf13/viper">Viper</a>, <a
+            href="http://vim.spf13.com">spf13-vim</a> and many <a
+            href="http://github.com/spf13">more</a>.
+            </p>
+            
+            <p>
+            Above all of these accomplishments, he is a father of 4. 
+            Outside of technology Steve likes travel, skateboarding, punk rock, and dystopian films.
+            </p>
+
+        </section> </div>
+
+</aside>
+
+<meta itemprop="wordCount" content="476">
+<meta itemprop="datePublished" content="2008-08-27">
+<meta itemprop="url" content="https://spf13.com/post/managing-multiple-firefox-profiles-in-os-x/">
+
+
+
+<footer>
+  <div>
+    <p>
+    &copy; 2013-19 <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+        <span itemprop="name">Steve Francia.</span></span>
+    <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons Attribution">Some rights reserved</a>;
+    please attribute properly and link back. <br>
+    Powered by <a href="http://gohugo.io">Hugo</a>.
+    </p>
+  </div>
+</footer>
+<script type="text/javascript">
+(function(){var j=function(a,b){return window.getComputedStyle?getComputedStyle(a).getPropertyValue(b):a.currentStyle[b]};var k=function(a,b,c){if(a.addEventListener)a.addEventListener(b,c,false);else a.attachEvent('on'+b,c)};var l=function(a,b){for(key in b)if(b.hasOwnProperty(key))a[key]=b[key];return a};window.fitText=function(d,e,f){var g=l({'minFontSize':-1/0,'maxFontSize':1/0},f);var h=function(a){var b=e||1;var c=function(){a.style.fontSize=Math.max(Math.min(a.clientWidth/(b*10),parseFloat(g.maxFontSize)),parseFloat(g.minFontSize))+'px'};c();k(window,'resize',c)};if(d.length)for(var i=0;i<d.length;i++)h(d[i]);else h(d);return d}})();
+fitText(document.getElementById('title'), 1)
+</script>
+
+<script type="application/javascript">
+var dnt = (navigator.doNotTrack || window.doNotTrack || navigator.msDoNotTrack);
+var doNotTrack = (dnt == "1" || dnt == "yes");
+if (!doNotTrack) {
+	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+	if (window.sessionStorage) {
+		var GA_SESSION_STORAGE_KEY = 'ga:clientId';
+		ga('create', 'UA-7131036-1', {
+	    'storage': 'none',
+	    'clientId': sessionStorage.getItem(GA_SESSION_STORAGE_KEY)
+	   });
+	   ga(function(tracker) {
+	    sessionStorage.setItem(GA_SESSION_STORAGE_KEY, tracker.get('clientId'));
+	   });
+   }
+	ga('set', 'anonymizeIp', true);
+	ga('send', 'pageview');
+}
+</script>
+<script async src='https://www.google-analytics.com/analytics.js'></script>
+
+</body>
+</html>
+

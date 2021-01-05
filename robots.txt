@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://joe07274.github.io/sitemap.xml

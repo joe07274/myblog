@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Leadership on Hacking Management</title>
+    <link>https://spf13.com/topics/leadership/</link>
+    <description>Recent content in Leadership on Hacking Management</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright (c) 2008 - 2019, Steve Francia; all rights reserved.</copyright>
+    <lastBuildDate>Wed, 11 Apr 2018 00:00:00 +0800</lastBuildDate><atom:link href="https://spf13.com/topics/leadership/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Drupal and the secret of my success</title>
+      <link>https://spf13.com/presentation/drupal-and-the-secret-of-my-success/</link>
+      <pubDate>Wed, 11 Apr 2018 00:00:00 +0800</pubDate>
+      
+      <guid>https://spf13.com/presentation/drupal-and-the-secret-of-my-success/</guid>
+      <description>&lt;p&gt;As my tenure on the &lt;a href=&#34;https://www.drupal.org/association&#34;&gt;Drupal Association&lt;/a&gt; was concluding, I was asked to give the Keynote for DrupalCon. It was my privilage to talk about my 20 year history with open source and how much I learned from and valued the Drupal community. &lt;a href=&#34;https://dri.es&#34;&gt;Dries&lt;/a&gt;, Drupal&amp;rsquo;s founder gave a touching &lt;a href=&#34;https://dri.es/how-drupal-influences-other-open-source-projects&#34;&gt;shoutout on his blog&lt;/a&gt; afterwards.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Release early, release often to minimize risk</title>
+      <link>https://spf13.com/post/release-early-release-often-to-minimize-risk/</link>
+      <pubDate>Thu, 05 May 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://spf13.com/post/release-early-release-often-to-minimize-risk/</guid>
+      <description>&amp;lt;img src=&amp;quot;/media/Gantt-chart-textless.png&amp;quot; alt=&amp;quot;gantt chart&amp;quot; /&amp;gt;  Release Cycles have been debated for the last 30 years and will certainly be for the next 30. Arguments for longer release cycles with larger releases usually focus on how risky these rapid releases are and the stability and polish these larger releases with their longer cycles bring. These arguments are absolute rubbish. To add to the discussion I’ll put a different emphasis than I’ve heard before.</description>
+    </item>
+    
+    <item>
+      <title>My Favorite Rands Posts</title>
+      <link>https://spf13.com/post/my-favorite-rands-posts/</link>
+      <pubDate>Thu, 28 Apr 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://spf13.com/post/my-favorite-rands-posts/</guid>
+      <description>&amp;lt;img src=&amp;quot;/media/rands.png&amp;quot; alt=&amp;quot;rands in repose&amp;quot; /&amp;gt;  If you don’t know Rands (real name Michael Lopp), you should. His blog is full of excellent content from someone who successfully figured out how to transition from managing bits to Managing Humans (also the title of his first book). Whether you are a developer, a tech manager, or manage something else, you’ll find value in his posts. I’ve been reading his blog for years and it’s influenced my decisions greatly.</description>
+    </item>
+    
+    <item>
+      <title>A new page for Google</title>
+      <link>https://spf13.com/post/a-new-page-for-google/</link>
+      <pubDate>Fri, 21 Jan 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://spf13.com/post/a-new-page-for-google/</guid>
+      <description>&amp;lt;img src=&amp;quot;/media/sergey-brin-and-larry-page.jpg&amp;quot; alt=&amp;quot;Google Management&amp;quot; /&amp;gt;  With a single tweet Google CEO Eric Schmidt announce a shift at the top of the search giant. The timing of this announcement can’t help but call to question if someone more youthful is needed at the helm to hold off the tidal waves of Apple, Microsoft and Facebook.
+Odd that Google chose twitter and a blog post to convey this instead of more traditional methods.</description>
+    </item>
+    
+    <item>
+      <title>Software Development&#39;s Magic Triangle</title>
+      <link>https://spf13.com/post/software-developments-magic-triangle/</link>
+      <pubDate>Sat, 18 Dec 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://spf13.com/post/software-developments-magic-triangle/</guid>
+      <description>&amp;lt;img src=&amp;quot;/media/Magic-Triangle-Development.png&amp;quot; alt=&amp;quot;Magic Triangle&amp;quot; /&amp;gt;  There’s an old adage “Fast, Cheap, Good; Pick Two”. This situation is called a magic triangle. You can have two and only two, if you try for all three you will compromise all three. Fools often try, losing everything.
+In the world of software development, another magic triangle exists. You can pick any two of the three, but not all three, so figure out what’s truly important.</description>
+    </item>
+    
+    <item>
+      <title>16 lessons from 16 years</title>
+      <link>https://spf13.com/post/16-lessons-from-16-years/</link>
+      <pubDate>Fri, 10 Sep 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://spf13.com/post/16-lessons-from-16-years/</guid>
+      <description>&amp;lt;img src=&amp;quot;/media/hilltop-mountain-sky.jpg&amp;quot; alt=&amp;quot;sky&amp;quot; /&amp;gt;  I’ve been working in the technology industry for the last 16 years. I’ve learned a lot. I wanted to share the lessons I’ve learned over the past 16 years, I figured one for each year seemed nice. It’s harder to make a short list than a long one and I had to cut out some helpful things, perhaps I’ll follow this up with another one with the things that didn’t make the list.</description>
+    </item>
+    
+    <item>
+      <title>My take on open source licenses</title>
+      <link>https://spf13.com/post/my-take-on-open-source-licenses/</link>
+      <pubDate>Wed, 21 Jul 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://spf13.com/post/my-take-on-open-source-licenses/</guid>
+      <description>&amp;lt;img src=&amp;quot;/media/opensource.png&amp;quot; alt=&amp;quot;open source&amp;quot; /&amp;gt;  Open Source licensing can be a confusing and daunting task. Most developers simply adopt licenses of other popular projects. I wanted to shed some light on the most popular licenses and provide some guidance on which one should be used and when.
+Disclaimer: I’m not a lawyer, I am not qualified to nor am I imparting sound legal advice.
+BSD &amp;amp; MIT Both licenses are very similar.</description>
+    </item>
+    
+    <item>
+      <title>Watch what you say</title>
+      <link>https://spf13.com/post/watch-what-you-say/</link>
+      <pubDate>Sun, 11 Jul 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://spf13.com/post/watch-what-you-say/</guid>
+      <description>&amp;lt;img src=&amp;quot;/media/shhh.jpg&amp;quot; alt=&amp;quot;shh..&amp;quot; /&amp;gt; &amp;lt;figcaption&amp;gt; &amp;lt;p&amp;gt; shh.. &amp;lt;a href=&amp;quot;http://www.flickr.com/photos/81619620@N00/3297040703&amp;quot;&amp;gt; Gustty &amp;lt;/a&amp;gt; &amp;lt;/p&amp;gt; &amp;lt;/figcaption&amp;gt;  I came across an article today titled “Help! My boss is on twitter“. Allow me to share a secret with you, if you current boss isn’t on twitter yet, I can guarantee that your next one will be. Social media has caught on like wildfire. In all the excitement too often people forget that everything that you say on twitter / facebook and others is being published and recorded.</description>
+    </item>
+    
+    <item>
+      <title>Why Projects Fail</title>
+      <link>https://spf13.com/post/why-projects-fail/</link>
+      <pubDate>Tue, 06 Jul 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://spf13.com/post/why-projects-fail/</guid>
+      <description>&amp;lt;img src=&amp;quot;/media/What_Happens_When_Brakes_Fail.jpg&amp;quot; alt=&amp;quot;train crash&amp;quot; /&amp;gt;  Regardless of your title or degree of experience, any misstep could result in a failed project. It’s a good habit to review the following two slide shows, if nothing else to provide a good confirmation that you are on the right track.
+Why Projects Fail: Obstacles and SolutionsView more documents from Michael Krigsman.
+Rome Death March Nov2009 View more documents from yourdon.
+Related articles  Why Software Projects Fail (ribomation.</description>
+    </item>
+    
+    <item>
+      <title>The Golden Hammer</title>
+      <link>https://spf13.com/post/the-golden-hammer/</link>
+      <pubDate>Wed, 21 Apr 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://spf13.com/post/the-golden-hammer/</guid>
+      <description>&amp;lt;img src=&amp;quot;/media/hammer.jpg&amp;quot; alt=&amp;quot;hammer&amp;quot; /&amp;gt; &amp;lt;figcaption&amp;gt; &amp;lt;p&amp;gt; &amp;lt;a href=&amp;quot;http://www.flickr.com/photos/87793853@N00/1430449350&amp;quot;&amp;gt; kyle may &amp;lt;/a&amp;gt; &amp;lt;/p&amp;gt; &amp;lt;/figcaption&amp;gt;  Every so often a “new” technology catches on. Right now it’s nosql databases. A couple years ago it was Ruby, before that it was java. Each arise because they propose a solution to an existing problem, or in other words a better way of doing something.. something, but not everything.
+Unfortunately knowing when to use the technology requires actual experience with it, which never seems to catch up to the hype engine quickly enough, so consequently the technology transforms into a “golden hammer”.</description>
+    </item>
+    
+    <item>
+      <title>Finding the Right People</title>
+      <link>https://spf13.com/post/finding-the-right-people/</link>
+      <pubDate>Mon, 22 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://spf13.com/post/finding-the-right-people/</guid>
+      <description>&amp;lt;img src=&amp;quot;/media/twitter-following.jpg&amp;quot; alt=&amp;quot;people&amp;quot; /&amp;gt;  Since I began at Open Sky a few weeks ago I have been tasked with building out a great team. Over the course of my career I have interviewed hundreds of people (mostly developers) and hired dozens. At OpenSky I was able to find and hire 6 fantastic employees in my first 6 weeks and wanted to share some of the tips and techniques I have learned over the years and found successful.</description>
+    </item>
+    
+    <item>
+      <title>Transitions</title>
+      <link>https://spf13.com/post/transitions/</link>
+      <pubDate>Mon, 08 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://spf13.com/post/transitions/</guid>
+      <description>&amp;lt;img src=&amp;quot;/media/opensky-logo.jpg&amp;quot; alt=&amp;quot;OpenSky Logo&amp;quot; /&amp;gt;  I couldn’t be more excited to announce that I have accepted a position at The Open Sky Project. I am leading the architecture, development and technology.
+It’s rare in life that one has the opportunity to do what they love to do and be paid to do it. Even rarer is to do something great with people you love working with. At OpenSky I have found this and more.</description>
+    </item>
+    
+    <item>
+      <title>Using the right keys</title>
+      <link>https://spf13.com/post/using-the-right-keys/</link>
+      <pubDate>Tue, 19 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://spf13.com/post/using-the-right-keys/</guid>
+      <description>&amp;lt;img src=&amp;quot;/media/door_lock.jpg&amp;quot; alt=&amp;quot;door lock&amp;quot; /&amp;gt; &amp;lt;figcaption&amp;gt; &amp;lt;p&amp;gt; &amp;lt;a href=&amp;quot;http://www.flickr.com/photos/95257089@N00/380033747&amp;quot;&amp;gt; HeyThereSpaceman &amp;lt;/a&amp;gt; &amp;lt;/p&amp;gt; &amp;lt;/figcaption&amp;gt;  Today I was visiting a friends office and like many offices in NYC they have a shared bathroom in the hall for the entire floor. In this building it had five buttons on the door that when pressed in the correct order unlocked the door. A simple password.
+In our office we have a similarly shared bathroom, but instead of a password, we have a physical key required to unlock the door.</description>
+    </item>
+    
+    <item>
+      <title>7 security practices you need to follow</title>
+      <link>https://spf13.com/post/7-security-practices-you-need-to-follow/</link>
+      <pubDate>Tue, 22 Dec 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://spf13.com/post/7-security-practices-you-need-to-follow/</guid>
+      <description>&amp;lt;img src=&amp;quot;/media/usbkey.jpg&amp;quot; /&amp;gt;  Some of this may seem like a broken record, yet every single time you hear about a bank losing millions of customer data, or a company having a security breach they consistently have failed to implement and enforce the most basic security practices. Here are 7 simple security practices that you cannot afford to not follow.
+1. Secure pass phrases Throw away the notion of a password.</description>
+    </item>
+    
+    <item>
+      <title>Fascinating interview with Steve Jobs and Bill Gates</title>
+      <link>https://spf13.com/post/fascinating-interview-with-steve-jobs-and-bill-gates/</link>
+      <pubDate>Wed, 16 Dec 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://spf13.com/post/fascinating-interview-with-steve-jobs-and-bill-gates/</guid>
+      <description>&amp;lt;img src=&amp;quot;/media/Steve_Jobs_and_Bill_Gates.jpg&amp;quot; /&amp;gt;  In 2007, All Things Digital held a fascinating interview with both Bill Gates and Steve Jobs.
+The interview runs long and is spread out over multiple clips. I’ve only included the first handful here. Watch the rest on youtube.
+It’s clear that they have a reasonably good relationship and clearly know each other well. They have a genuine and sincere respect for each other. It’s amazing how firm a grasp both have on the industry as a whole.</description>
+    </item>
+    
+    <item>
+      <title>The Importance of Focus</title>
+      <link>https://spf13.com/post/the-importance-of-focus/</link>
+      <pubDate>Wed, 16 Dec 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://spf13.com/post/the-importance-of-focus/</guid>
+      <description>Imagine if Apple, Disney, Microsoft, etc had chased every oppotunity that they came across. One thing is certain, you wouldn’t recognize their name today. Each of these companies was successful because of extreme focus around a central vision. As Bill Cosby said.. “I don’t know the key to success but the key to failure is to try to please everyone.”
+Bill Gates achieved monumental success with Microsoft, and attributes “focus” as the key to his success.</description>
+    </item>
+    
+    <item>
+      <title>Checking Vendor References</title>
+      <link>https://spf13.com/post/checking-vendor-references/</link>
+      <pubDate>Fri, 11 Dec 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://spf13.com/post/checking-vendor-references/</guid>
+      <description>One task that should be part of every IT managers is performing reference checks on potential vendors. A vendor reference check goes beyond the sales pitch to reveal the true nature of a product or company. If you’re not performing reference checks you are susceptible of falling prey to a slick sales pitch with nothing but trouble behind it.
+Vendors only provide the customers they are certain will give a glowing endorsement.</description>
+    </item>
+    
+    <item>
+      <title>Engaging Employees</title>
+      <link>https://spf13.com/post/engaging-employees/</link>
+      <pubDate>Wed, 02 Dec 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://spf13.com/post/engaging-employees/</guid>
+      <description>There is one trait that if possessed can virtually ensure success, the ability to nurture a culture of engaged workers.
+Engaged workers do work harder or longer, but that’s not the core benefit, rather an engaged employee will demonstrate commitment, dedication, initiative and will work for the company (rather than for a paycheck). Engaged workers require no supervision and little management. Only when employees are properly engaged can organization move as one towards a unified goal.</description>
+    </item>
+    
+    <item>
+      <title>Apple&#39;s iconic presentations</title>
+      <link>https://spf13.com/post/apples-iconic-presentations/</link>
+      <pubDate>Thu, 12 Nov 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://spf13.com/post/apples-iconic-presentations/</guid>
+      <description>&amp;lt;img src=&amp;quot;/media/stevejobs.jpg&amp;quot; alt=&amp;quot;Image via CrunchBase&amp;quot; /&amp;gt; &amp;lt;figcaption&amp;gt; &amp;lt;p&amp;gt; Image via CrunchBase &amp;lt;/p&amp;gt; &amp;lt;/figcaption&amp;gt;  Recently a book came out The Presentation Secrets of Steve Jobs: How to be Insanely Great in Front of Any Audience. Jobs has mastered the art of presenting. I thought it would be interesting to look at his presentations over the years. Here are the three biggest announcements Apple has made.. iMac (Jobs first product after returning),iPod, iPhone.</description>
+    </item>
+    
+    <item>
+      <title>Everything is Amazing and Nobody&#39;s Happy</title>
+      <link>https://spf13.com/post/everything-is-amazing-and-nobodys-happy/</link>
+      <pubDate>Mon, 26 Oct 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://spf13.com/post/everything-is-amazing-and-nobodys-happy/</guid>
+      <description>&amp;lt;img src=&amp;quot;/media/Louis_CK_Kuwait_crop.jpg&amp;quot; alt=&amp;quot;Image via Wikipedia&amp;quot; /&amp;gt; &amp;lt;figcaption&amp;gt; &amp;lt;p&amp;gt; Image via Wikipedia &amp;lt;/p&amp;gt; &amp;lt;/figcaption&amp;gt;  This isn’t new, Louis C.K. ranted this on Conan’s show in 2008.. I came across it recently and felt like sharing.
+I don’t really know much about Louis C.K., this is really the first thing I’ve seen of him, but I think he makes some excellent points. Happiness is learning to appreciate what you have. We live in an amazing time exceeding the dreams of our grandparents.</description>
+    </item>
+    
+    <item>
+      <title>Take Time to Help Others</title>
+      <link>https://spf13.com/post/take-time-to-help-others/</link>
+      <pubDate>Thu, 22 Oct 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://spf13.com/post/take-time-to-help-others/</guid>
+      <description>While it may not seem intuitive taking time out to selflessly help others will help you more than them. This week I haven’t had much time to blog largely because this week many opportunities arose to help others and I took them. Some at work, some outside of work. Helping others will endear them to you. Not only will you ultimately benefit more than what you’ve invested in helping others, but you will also make a real difference in the lives of those whom you work with.</description>
+    </item>
+    
+    <item>
+      <title>Featured in CIO Magazine!</title>
+      <link>https://spf13.com/post/featured-in-cio-magazine/</link>
+      <pubDate>Thu, 10 Sep 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://spf13.com/post/featured-in-cio-magazine/</guid>
+      <description>&amp;lt;img src=&amp;quot;/media/CIOmag.jpg&amp;quot; alt=&amp;quot;Steve Francia in CIO Magazine&amp;quot; /&amp;gt; &amp;lt;figcaption&amp;gt; &amp;lt;p&amp;gt; Steve Francia in CIO Magazine &amp;lt;/p&amp;gt; &amp;lt;/figcaption&amp;gt;  I don’t know what could be more shocking that opening this month’s edition of CIO magazine and discovering that my blog, this very blog that you are currently reading is one of two blogs featured this month. I am humbled and honored to be mentioned and included with such great peers. To all my new readers I look forward to connecting with you via Twitter or LinkedIn.</description>
+    </item>
+    
+    <item>
+      <title>Choosing a Hosting Partner</title>
+      <link>https://spf13.com/post/choosing-a-hosting-partner/</link>
+      <pubDate>Tue, 25 Aug 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://spf13.com/post/choosing-a-hosting-partner/</guid>
+      <description>&amp;lt;img src=&amp;quot;/media/Server_Linux.jpg&amp;quot; alt=&amp;quot;Image via Wikipedia&amp;quot; /&amp;gt; &amp;lt;figcaption&amp;gt; &amp;lt;p&amp;gt; Image via Wikipedia &amp;lt;/p&amp;gt; &amp;lt;/figcaption&amp;gt;  No question about it, choosing a good hosting partner is one of the most important decisions a CTO / CIO can make, especially in a .com company. I recently had to choose a hosting partner for the new portero.com. Since the space changes so rapidly the last provider you used may no longer be the best fit for you now.</description>
+    </item>
+    
+    <item>
+      <title>Social Media Recognition</title>
+      <link>https://spf13.com/post/social-media-recognition/</link>
+      <pubDate>Fri, 17 Jul 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://spf13.com/post/social-media-recognition/</guid>
+      <description>Recently I’ve been fortunate to be recognized in a few publications. I extend a warm welcome to all my new friends and followers. I look forward to engaging with you.
+ 12 CIOs Who Love Social Media Luxury 50 Top Twitter Users CIO Twitter Dashboard   &amp;lt;img src=&amp;quot;/media/3730060061_ee4e0d8880_o.jpg&amp;quot; alt=&amp;quot;12 CIOs Who Love Social Media-2 by steve.francia, on Flickr&amp;quot; /&amp;gt; &amp;lt;figcaption&amp;gt; &amp;lt;p&amp;gt; 12 CIOs Who Love Social Media-2 by steve.francia, on Flickr &amp;lt;/p&amp;gt; &amp;lt;/figcaption&amp;gt;  Related Articles  The New CIO: Social Media and the Enterprise(ericbrown.</description>
+    </item>
+    
+    <item>
+      <title>Growing in a Down Economy</title>
+      <link>https://spf13.com/post/growing-in-the-down-economy/</link>
+      <pubDate>Thu, 29 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://spf13.com/post/growing-in-the-down-economy/</guid>
+      <description>Trimming the Fat I am all in favor of trimming the fat. Every company has inefficiencies and employees that aren’t adding value to the company. This exercise of fat trimming should be an ongoing exercise, quarterly. If a company larger than 200 employees is firing 10% or more of their employees they have a serious management issue. No well run company can operate efficiently with 10%+ of “fat”, and no company can expect to grow while letting go 10%+ of their staff.</description>
+    </item>
+    
+    <item>
+      <title>Portero Raises 6.6 Million</title>
+      <link>https://spf13.com/post/portero-raises-6-6-million/</link>
+      <pubDate>Fri, 19 Dec 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://spf13.com/post/portero-raises-6-6-million/</guid>
+      <description>&amp;lt;img src=&amp;quot;/media/portero.png&amp;quot; /&amp;gt;  I am happy to announce that Portero has raised $6.6 million in funding. The round was led by LFE Capital joined by returning backers including Grosvenor Funds. TechCrunch picked up the announcement early this morning and featured us on their home page. As I have a bit of an insiders view, I felt it was my place to provide a bit of insight into why Portero is such a great company.</description>
+    </item>
+    
+    <item>
+      <title>One Hundred Pushups</title>
+      <link>https://spf13.com/post/one-hundred-pushups/</link>
+      <pubDate>Thu, 11 Dec 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://spf13.com/post/one-hundred-pushups/</guid>
+      <description>&amp;lt;img src=&amp;quot;/media/pushups.gif&amp;quot; alt=&amp;quot;Photographer: Frank C. Müller&amp;quot; /&amp;gt; &amp;lt;figcaption&amp;gt; &amp;lt;p&amp;gt; Photographer: Frank C. Müller &amp;lt;/p&amp;gt; &amp;lt;/figcaption&amp;gt;  A while back a bunch of people were twittering about the 100 pushup challenge. Thanksgiving was the catalyst for me. I began my quest for better health about a week ago.
+The premise of the challenge is quite simple. It is a six week program, that if followed, you can do 100 consecutive good form push ups at the end of the program.</description>
+    </item>
+    
+    <item>
+      <title>Hire Your Next Consultant Using Twitter</title>
+      <link>https://spf13.com/post/hire-your-next-consultant-using-twitter/</link>
+      <pubDate>Tue, 21 Oct 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://spf13.com/post/hire-your-next-consultant-using-twitter/</guid>
+      <description>At Portero we had an issue with our network.
+I know enough about networking to understand the basics. I actually used to work on the IOS back during the dawn of the internet. Though things have changed since then, the biggest issue is I don’t remember enough to fix network configuration issues on the router level.
+Before I took the post at Portero, we had a company we contracted to configure all of our Cisco equipment.</description>
+    </item>
+    
+    <item>
+      <title>Promotion</title>
+      <link>https://spf13.com/post/promotion/</link>
+      <pubDate>Tue, 23 Sep 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://spf13.com/post/promotion/</guid>
+      <description>&amp;lt;img src=&amp;quot;/media/portero.png&amp;quot; /&amp;gt;  Permit me to shamelesly announce my promotion to Chief Information Officer at Portero Inc.
+Here is the Press Release on the wire this week. Portero, Inc., is pleased to announce the promotion of Steve P. Francia to the position of Chief Information Officer (CIO), effective immediately. He will continue to report to Michael Sheldon, the company’s chairman and CEO, and will be responsible for operations and technology for the company.</description>
+    </item>
+    
+  </channel>
+</rss>

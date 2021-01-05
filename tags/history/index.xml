@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>history on Hacking Management</title>
+    <link>https://spf13.com/tags/history/</link>
+    <description>Recent content in history on Hacking Management</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright (c) 2008 - 2019, Steve Francia; all rights reserved.</copyright>
+    <lastBuildDate>Tue, 22 Oct 2019 00:00:00 +0800</lastBuildDate><atom:link href="https://spf13.com/tags/history/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Legacy of Go</title>
+      <link>https://spf13.com/presentation/the-legacy-of-go/</link>
+      <pubDate>Tue, 22 Oct 2019 00:00:00 +0800</pubDate>
+      
+      <guid>https://spf13.com/presentation/the-legacy-of-go/</guid>
+      <description>&lt;p&gt;This presentation was developed for &lt;a href=&#34;https://golab.io&#34;&gt;GoLab&lt;/a&gt; in Firenze Italy and delivered as the closing keynote of the conference. The presentation talks about legacy, looking both backwards and forwards. It talks about the legacy of langauage Go inherited and how it is paying respect to that legacy. It concludes talking about the legacy Go hopes to leave behind.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>What Should a Modern Practical Programming Language Look Like</title>
+      <link>https://spf13.com/presentation/what-should-a-modern-practical-programming-language-look-like/</link>
+      <pubDate>Fri, 05 Apr 2019 00:00:00 +0800</pubDate>
+      
+      <guid>https://spf13.com/presentation/what-should-a-modern-practical-programming-language-look-like/</guid>
+      <description>&lt;p&gt;Keynote delivered at &lt;a href=&#34;https://landingfestival.com/&#34;&gt;The Landing Festival – Berlin&lt;/a&gt;. This presentation describes the many inspirations and influences of the &lt;a href=&#34;http://golang.org&#34;&gt;Go programming language&lt;/a&gt; and goes into detail about how we shaped and created the language.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Go – On The Shoulders of Giants</title>
+      <link>https://spf13.com/presentation/on-the-shoulders-of-giants/</link>
+      <pubDate>Tue, 17 Jul 2018 00:00:00 +0800</pubDate>
+      
+      <guid>https://spf13.com/presentation/on-the-shoulders-of-giants/</guid>
+      <description>&lt;p&gt;This presentation was developed for &lt;a href=&#34;http://www.curry-on.org/2018/&#34;&gt;Curry On&lt;/a&gt; and delivered as the closing keynote of the conference. The presentation describes the many inspirations and influences of the &lt;a href=&#34;http://golang.org&#34;&gt;Go programming language&lt;/a&gt; and goes into detail about how we shaped and created the language.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

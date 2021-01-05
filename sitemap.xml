@@ -1,0 +1,2375 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://spf13.com/topics/development/</loc>
+    <lastmod>2019-10-22T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/development/</loc>
+    <lastmod>2019-10-22T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/go/</loc>
+    <lastmod>2019-10-22T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/topics/golang/</loc>
+    <lastmod>2019-10-22T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/</loc>
+    <lastmod>2019-10-22T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/history/</loc>
+    <lastmod>2019-10-22T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/presentation/</loc>
+    <lastmod>2019-10-22T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/</loc>
+    <lastmod>2019-10-22T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/presentation/the-legacy-of-go/</loc>
+    <lastmod>2019-10-22T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/topics/</loc>
+    <lastmod>2019-10-22T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/presentation/what-should-a-modern-practical-programming-language-look-like/</loc>
+    <lastmod>2019-04-05T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/topics/product-management/</loc>
+    <lastmod>2019-04-04T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/product-management/</loc>
+    <lastmod>2019-04-04T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/presentation/product-management-for-everyone/</loc>
+    <lastmod>2019-04-04T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/presentation/on-the-shoulders-of-giants/</loc>
+    <lastmod>2018-07-17T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/language-design/</loc>
+    <lastmod>2018-07-17T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/presentation/go-a-global-phenomenon/</loc>
+    <lastmod>2018-07-07T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/cobra/</loc>
+    <lastmod>2018-04-11T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/topics/community/</loc>
+    <lastmod>2018-04-11T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/docker/</loc>
+    <lastmod>2018-04-11T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/drupal/</loc>
+    <lastmod>2018-04-11T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/presentation/drupal-and-the-secret-of-my-success/</loc>
+    <lastmod>2018-04-11T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/google/</loc>
+    <lastmod>2018-04-11T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/hugo/</loc>
+    <lastmod>2018-04-11T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/topics/leadership/</loc>
+    <lastmod>2018-04-11T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/topics/mongodb/</loc>
+    <lastmod>2018-04-11T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/mongodb/</loc>
+    <lastmod>2018-04-11T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/open-source/</loc>
+    <lastmod>2018-04-11T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/php/</loc>
+    <lastmod>2018-04-11T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/topics/presentations/</loc>
+    <lastmod>2018-04-11T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/viper/</loc>
+    <lastmod>2018-04-11T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/presentation/state-of-the-go-nation-gophercon-brasil-2017/</loc>
+    <lastmod>2017-11-19T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/presentation/state-of-the-go-nation-gotham-go-2017/</loc>
+    <lastmod>2017-10-09T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/presentation/stateofthegophernation-aug17/</loc>
+    <lastmod>2017-08-17T10:09:53-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/contributing/</loc>
+    <lastmod>2017-07-24T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/presentation/how-to-contribute-to-go/</loc>
+    <lastmod>2017-07-24T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/code-in/</loc>
+    <lastmod>2017-06-08T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/presentation/life-liberty-and-golang/</loc>
+    <lastmod>2017-06-08T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/presentation/building-an-awesome-cli-app-in-go-oscon/</loc>
+    <lastmod>2017-05-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/presentation/building-an-awesome-cli-app-in-go-craft/</loc>
+    <lastmod>2017-04-28T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/post/hugo-goes-global/</loc>
+    <lastmod>2016-10-07T10:56:02-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/post/</loc>
+    <lastmod>2016-10-07T10:56:02-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/post/joining-go-team-at-google/</loc>
+    <lastmod>2016-09-15T12:15:03-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/topics/docker/</loc>
+    <lastmod>2015-06-05T10:43:50+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/topics/linux/</loc>
+    <lastmod>2015-06-05T10:43:50+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/linux/</loc>
+    <lastmod>2015-06-05T10:43:50+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/operating-systems/</loc>
+    <lastmod>2015-06-05T10:43:50+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/presentation/the-future-of-the-os-linuxcon-2015-keynote/</loc>
+    <lastmod>2015-06-05T10:43:50+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/presentation/7-common-mistakes-in-go-2015/</loc>
+    <lastmod>2015-05-27T12:28:12-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/topics/open-source/</loc>
+    <lastmod>2015-03-20T18:00:02-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/presentation/what-every-open-source-project-needs/</loc>
+    <lastmod>2015-03-20T18:00:02-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/community/</loc>
+    <lastmod>2015-03-17T15:24:07-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/post/how-to-be-a-good-open-source-community-member/</loc>
+    <lastmod>2015-03-17T15:24:07-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/presentation/7-biggest-mistakes-in-go/</loc>
+    <lastmod>2014-11-18T14:06:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/post/hugo-summer2014-update/</loc>
+    <lastmod>2014-10-02T13:28:42-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/advocacy/</loc>
+    <lastmod>2014-09-24T13:17:48-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/topics/developer-advocacy/</loc>
+    <lastmod>2014-09-24T13:17:48-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/evangelism/</loc>
+    <lastmod>2014-09-24T13:17:48-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/post/evangelism-is-not-sales/</loc>
+    <lastmod>2014-09-24T13:17:48-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/presentation/go-for-object-oriented-programmers/</loc>
+    <lastmod>2014-07-31T04:20:08+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/mgo/</loc>
+    <lastmod>2014-07-23T09:48:46+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/presentation/mongodb-and-go/</loc>
+    <lastmod>2014-07-23T09:48:46+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/presentation/first-go-app/</loc>
+    <lastmod>2014-07-20T08:51:33+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/c/</loc>
+    <lastmod>2014-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/c&#43;&#43;/</loc>
+    <lastmod>2014-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/golang/</loc>
+    <lastmod>2014-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/perl/</loc>
+    <lastmod>2014-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/topics/php/</loc>
+    <lastmod>2014-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/post/go-pointers-vs-references/</loc>
+    <lastmod>2014-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/topics/python/</loc>
+    <lastmod>2014-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/python/</loc>
+    <lastmod>2014-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/topics/ruby/</loc>
+    <lastmod>2014-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/ruby/</loc>
+    <lastmod>2014-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/post/is-go-object-oriented/</loc>
+    <lastmod>2014-06-09T01:18:04+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/object-oriented/</loc>
+    <lastmod>2014-06-09T01:18:04+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/data/</loc>
+    <lastmod>2014-04-25T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/presentation/painless-datastorage-with-mongodb-and-go/</loc>
+    <lastmod>2014-04-25T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/post/mongodb2-6-drivers-released/</loc>
+    <lastmod>2014-04-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/java/</loc>
+    <lastmod>2014-04-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/node.js/</loc>
+    <lastmod>2014-04-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/scala/</loc>
+    <lastmod>2014-04-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/post/cross-compiling-go/</loc>
+    <lastmod>2014-02-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/.vimrc/</loc>
+    <lastmod>2014-01-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/distribution/</loc>
+    <lastmod>2014-01-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/gvim/</loc>
+    <lastmod>2014-01-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/plugins/</loc>
+    <lastmod>2014-01-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/spf13-vim/</loc>
+    <lastmod>2014-01-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/vi/</loc>
+    <lastmod>2014-01-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/topics/vim/</loc>
+    <lastmod>2014-01-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/vim/</loc>
+    <lastmod>2014-01-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/vim-text-editor/</loc>
+    <lastmod>2014-01-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/vimscript/</loc>
+    <lastmod>2014-01-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/post/why-i-use-spf13-vim/</loc>
+    <lastmod>2014-01-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/post/announcing-cobra/</loc>
+    <lastmod>2013-11-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/post/go-fmt/</loc>
+    <lastmod>2013-10-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/presentation/building-your-first-mongodb-app-in-ruby-strangeloop-2013/</loc>
+    <lastmod>2013-09-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/presentation/building-modern-web-applications/</loc>
+    <lastmod>2013-08-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/javascript/</loc>
+    <lastmod>2013-08-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/presentation/mongodb-and-php/</loc>
+    <lastmod>2013-07-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/topics/blogging/</loc>
+    <lastmod>2013-07-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/blogging/</loc>
+    <lastmod>2013-07-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/project/hugo/</loc>
+    <lastmod>2013-07-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/project/</loc>
+    <lastmod>2013-07-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/project/nitro/</loc>
+    <lastmod>2013-06-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/profiling/</loc>
+    <lastmod>2013-06-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/blog/</loc>
+    <lastmod>2013-06-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/css3/</loc>
+    <lastmod>2013-06-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/post/go-go-hugo-blog/</loc>
+    <lastmod>2013-06-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/html5/</loc>
+    <lastmod>2013-06-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/topics/personal/</loc>
+    <lastmod>2013-06-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/personal/</loc>
+    <lastmod>2013-06-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/responsive/</loc>
+    <lastmod>2013-06-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/presentation/the-future-of-data/</loc>
+    <lastmod>2013-03-27T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/apache-hadoop/</loc>
+    <lastmod>2012-12-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/big-data/</loc>
+    <lastmod>2012-12-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/data-processing/</loc>
+    <lastmod>2012-12-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/data-tools/</loc>
+    <lastmod>2012-12-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/distributed-data-processing/</loc>
+    <lastmod>2012-12-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/hadoop/</loc>
+    <lastmod>2012-12-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/mapreduce/</loc>
+    <lastmod>2012-12-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/presentation/mongodb-hadoop-humongous-data-mongosv-2012/</loc>
+    <lastmod>2012-12-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/10gen/</loc>
+    <lastmod>2012-11-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/driver-team/</loc>
+    <lastmod>2012-11-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/drivers/</loc>
+    <lastmod>2012-11-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/github/</loc>
+    <lastmod>2012-11-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/hack/</loc>
+    <lastmod>2012-11-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/hack-day/</loc>
+    <lastmod>2012-11-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/post/10gen-driver-days-mongodb-hack-a-thon/</loc>
+    <lastmod>2012-11-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/thon/</loc>
+    <lastmod>2012-11-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/topics/architecture/</loc>
+    <lastmod>2012-10-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/architecture/</loc>
+    <lastmod>2012-10-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/data-analysis/</loc>
+    <lastmod>2012-10-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/data-processor/</loc>
+    <lastmod>2012-10-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/data-storage/</loc>
+    <lastmod>2012-10-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/information-technology/</loc>
+    <lastmod>2012-10-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/nosql/</loc>
+    <lastmod>2012-10-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/presentation/big-data-for-the-rest-of-us-at-nyc-strata-2012/</loc>
+    <lastmod>2012-10-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/nyc/</loc>
+    <lastmod>2012-10-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/orbitz/</loc>
+    <lastmod>2012-10-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/topics/scalability/</loc>
+    <lastmod>2012-10-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/strata/</loc>
+    <lastmod>2012-10-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/strata-nyc/</loc>
+    <lastmod>2012-10-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/structured-storage/</loc>
+    <lastmod>2012-10-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/topics/systems/</loc>
+    <lastmod>2012-10-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/topics/tech-industry/</loc>
+    <lastmod>2012-10-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/backup/</loc>
+    <lastmod>2012-10-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/business-continuity-planning/</loc>
+    <lastmod>2012-10-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/cloud-storage/</loc>
+    <lastmod>2012-10-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/common-myths/</loc>
+    <lastmod>2012-10-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/computing/</loc>
+    <lastmod>2012-10-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/data-center/</loc>
+    <lastmod>2012-10-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/data-management/</loc>
+    <lastmod>2012-10-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/disaster-recovery/</loc>
+    <lastmod>2012-10-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/disaster-recovery-plan/</loc>
+    <lastmod>2012-10-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/disaster-recovery-process/</loc>
+    <lastmod>2012-10-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/disaster-recovery-solutions/</loc>
+    <lastmod>2012-10-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/disaster-recovery-strategy/</loc>
+    <lastmod>2012-10-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/emergency-management/</loc>
+    <lastmod>2012-10-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/information-risk-management/</loc>
+    <lastmod>2012-10-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/real-time-recovery/</loc>
+    <lastmod>2012-10-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/recovery/</loc>
+    <lastmod>2012-10-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/recovery-plan/</loc>
+    <lastmod>2012-10-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/recovery-strategies/</loc>
+    <lastmod>2012-10-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/post/top-4-biggest-myths-surrounding-disaster-recovery/</loc>
+    <lastmod>2012-10-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/intellectual-property/</loc>
+    <lastmod>2012-09-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/intellectual-property-protection/</loc>
+    <lastmod>2012-09-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/post/protect-intellectual-property-on-your-blog/</loc>
+    <lastmod>2012-09-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/giving-a-presentation/</loc>
+    <lastmod>2012-09-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/post/how-i-gave-the-most-viewed-presentation-in-the-history-of-oscon/</loc>
+    <lastmod>2012-09-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/oscon/</loc>
+    <lastmod>2012-09-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/presentation-software/</loc>
+    <lastmod>2012-09-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/presentations/</loc>
+    <lastmod>2012-09-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/slideshare/</loc>
+    <lastmod>2012-09-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/the-presentation/</loc>
+    <lastmod>2012-09-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/twitter/</loc>
+    <lastmod>2012-09-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/view/</loc>
+    <lastmod>2012-09-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/view-presentation/</loc>
+    <lastmod>2012-09-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/post/how-to-deliver-great-conference-tutorials/</loc>
+    <lastmod>2012-09-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/tutorial/</loc>
+    <lastmod>2012-09-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/post/adding-photoshopcs5-support-to-picasa/</loc>
+    <lastmod>2012-08-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/photography/</loc>
+    <lastmod>2012-08-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/photoshop/</loc>
+    <lastmod>2012-08-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/picasa/</loc>
+    <lastmod>2012-08-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/presentation/building-your-first-mongodb-app-oscon-2012/</loc>
+    <lastmod>2012-07-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/availability/</loc>
+    <lastmod>2012-06-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/durability/</loc>
+    <lastmod>2012-06-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/high-availability/</loc>
+    <lastmod>2012-06-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/replication/</loc>
+    <lastmod>2012-06-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/presentation/replication-durability-and-disaster-recovery/</loc>
+    <lastmod>2012-06-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/presentation/multi-data-center-strategies/</loc>
+    <lastmod>2012-06-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/post/getting-started-with-mongodb-and-php/</loc>
+    <lastmod>2012-05-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/pear/</loc>
+    <lastmod>2012-05-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/apache-cassandra/</loc>
+    <lastmod>2012-05-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/databases/</loc>
+    <lastmod>2012-05-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/presentation/nosql-databases-and-managing-big-data/</loc>
+    <lastmod>2012-05-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/redis/</loc>
+    <lastmod>2012-05-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/large-scale-distributed/</loc>
+    <lastmod>2012-05-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/presentation/mongodb-hadoop-and-humongous-data/</loc>
+    <lastmod>2012-05-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/post/dont-look-now-im-on-dzone/</loc>
+    <lastmod>2012-04-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/bash/</loc>
+    <lastmod>2012-04-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/editor/</loc>
+    <lastmod>2012-04-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/git/</loc>
+    <lastmod>2012-04-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/project/spf13-vim/</loc>
+    <lastmod>2012-04-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/post/new-personal-site-powered-by-github-pages/</loc>
+    <lastmod>2012-04-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/post/spf13-vim-3-0-release-and-new-website/</loc>
+    <lastmod>2012-04-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/blog-software/</loc>
+    <lastmod>2012-03-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/content-management/</loc>
+    <lastmod>2012-03-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/content-management-systems/</loc>
+    <lastmod>2012-03-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/drupal-core/</loc>
+    <lastmod>2012-03-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/dynamic-content/</loc>
+    <lastmod>2012-03-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/enable/</loc>
+    <lastmod>2012-03-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/post/getting-started-with-drupal-and-mongodb/</loc>
+    <lastmod>2012-03-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/presentation/mongodb-and-hadoop/</loc>
+    <lastmod>2012-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/book/</loc>
+    <lastmod>2012-02-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/project/github-code-viewer/</loc>
+    <lastmod>2012-02-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/post/mongodb-and-php-the-book/</loc>
+    <lastmod>2012-02-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/project/piv/</loc>
+    <lastmod>2012-02-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/wordpress/</loc>
+    <lastmod>2012-02-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/genealogy/</loc>
+    <lastmod>2012-02-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/graph/</loc>
+    <lastmod>2012-02-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/presentation/mongodb-for-genealogy-at-rootstech-2012/</loc>
+    <lastmod>2012-02-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/tree/</loc>
+    <lastmod>2012-02-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/post/backups-replication-and-disaster-recovery/</loc>
+    <lastmod>2012-01-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/backups/</loc>
+    <lastmod>2012-01-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/better-backups/</loc>
+    <lastmod>2012-01-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/computer-data/</loc>
+    <lastmod>2012-01-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/computer-storage/</loc>
+    <lastmod>2012-01-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/data-loss/</loc>
+    <lastmod>2012-01-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/database/</loc>
+    <lastmod>2012-01-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/database-management-systems/</loc>
+    <lastmod>2012-01-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/infrastructure/</loc>
+    <lastmod>2012-01-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/raid/</loc>
+    <lastmod>2012-01-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/snapshot/</loc>
+    <lastmod>2012-01-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/topics/ecommerce/</loc>
+    <lastmod>2012-01-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/presentation/hybrid-mongodb-sql-applications/</loc>
+    <lastmod>2012-01-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/mysql/</loc>
+    <lastmod>2012-01-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/postgresql/</loc>
+    <lastmod>2012-01-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/post/windows-power-user-tools/</loc>
+    <lastmod>2011-12-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/presentation/building-your-first-app-with-mongodb-at-mongosv-2011/</loc>
+    <lastmod>2011-12-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/presentation/ecommerce-in-la/</loc>
+    <lastmod>2011-12-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/cloud-computing/</loc>
+    <lastmod>2011-11-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/presentation/mongodb-php-and-the-cloud-php-cloud-summit-2011/</loc>
+    <lastmod>2011-11-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/post/lds-sort-tech-conference-2011/</loc>
+    <lastmod>2011-10-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/presentation/mongodb-and-php-at-zendcon-2011/</loc>
+    <lastmod>2011-10-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/presentation/mongodb-sort-conference-2011/</loc>
+    <lastmod>2011-10-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/post/hybrid-cloud-computing/</loc>
+    <lastmod>2011-09-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/ecommerce/</loc>
+    <lastmod>2011-09-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/presentation/mongodb-e-commerce-and-transactions/</loc>
+    <lastmod>2011-09-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/post/where-have-all-the-good-databases-gone/</loc>
+    <lastmod>2011-07-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/post/easy-bash-scripting-with-shflags/</loc>
+    <lastmod>2011-07-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/shell/</loc>
+    <lastmod>2011-07-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/shell-script/</loc>
+    <lastmod>2011-07-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/amazon-web-services/</loc>
+    <lastmod>2011-06-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/post/competition-for-the-cloud-heats-up/</loc>
+    <lastmod>2011-06-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/hp/</loc>
+    <lastmod>2011-06-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/rackspace/</loc>
+    <lastmod>2011-06-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/command-line-interface/</loc>
+    <lastmod>2011-06-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/post/creating-a-symfony2-console-command/</loc>
+    <lastmod>2011-06-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/symfony/</loc>
+    <lastmod>2011-06-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/symfony2/</loc>
+    <lastmod>2011-06-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/bubble/</loc>
+    <lastmod>2011-06-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/ipo/</loc>
+    <lastmod>2011-06-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/pandora/</loc>
+    <lastmod>2011-06-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/post/pandoras-ipo-a-sign-of-the-times/</loc>
+    <lastmod>2011-06-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/presentation/blending-mongo-and-rdbms-for-ecommerce/</loc>
+    <lastmod>2011-06-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/doctrine/</loc>
+    <lastmod>2011-06-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/opensky/</loc>
+    <lastmod>2011-06-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/computing-platform/</loc>
+    <lastmod>2011-06-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/html/</loc>
+    <lastmod>2011-06-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/post/the-browser-as-a-application-platform/</loc>
+    <lastmod>2011-06-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/web-browser/</loc>
+    <lastmod>2011-06-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/post/creating-your-own-symfony2-bundle/</loc>
+    <lastmod>2011-05-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/programming/</loc>
+    <lastmod>2011-05-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/post/release-early-release-often-to-minimize-risk/</loc>
+    <lastmod>2011-05-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/software/</loc>
+    <lastmod>2011-05-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/career/</loc>
+    <lastmod>2011-04-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/management/</loc>
+    <lastmod>2011-04-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/post/my-favorite-rands-posts/</loc>
+    <lastmod>2011-04-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/post/announcing-projects-presentations/</loc>
+    <lastmod>2011-04-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/presentation/augmenting-rdbms-with-nosql-for-e-commerce/</loc>
+    <lastmod>2011-04-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/post/getting-started-with-symfony2/</loc>
+    <lastmod>2011-03-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/framework/</loc>
+    <lastmod>2011-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/post/symfony2/</loc>
+    <lastmod>2011-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/editors/</loc>
+    <lastmod>2011-01-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/post/perfect-vimrc-vim-config-file/</loc>
+    <lastmod>2011-01-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/post/a-new-page-for-google/</loc>
+    <lastmod>2011-01-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/new-years-resolution/</loc>
+    <lastmod>2011-01-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/productivity/</loc>
+    <lastmod>2011-01-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/post/the-most-productive-20-minutes-of-my-day/</loc>
+    <lastmod>2011-01-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/amazon/</loc>
+    <lastmod>2010-12-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/apple/</loc>
+    <lastmod>2010-12-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/microsoft/</loc>
+    <lastmod>2010-12-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/nintendo/</loc>
+    <lastmod>2010-12-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/post/software-developments-magic-triangle/</loc>
+    <lastmod>2010-12-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/post/wp-github-code-viewer/</loc>
+    <lastmod>2010-12-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/presentation/mongodb-ecommerce-a-perfect-combination/</loc>
+    <lastmod>2010-10-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/post/16-lessons-from-16-years/</loc>
+    <lastmod>2010-09-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/learning/</loc>
+    <lastmod>2010-09-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/lessons/</loc>
+    <lastmod>2010-09-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/post/selling-on-opensky/</loc>
+    <lastmod>2010-08-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/shop/</loc>
+    <lastmod>2010-08-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/shopping/</loc>
+    <lastmod>2010-08-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/post/my-take-on-open-source-licenses/</loc>
+    <lastmod>2010-07-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/facebook/</loc>
+    <lastmod>2010-07-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/topics/social-media/</loc>
+    <lastmod>2010-07-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/social-media/</loc>
+    <lastmod>2010-07-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/post/watch-what-you-say/</loc>
+    <lastmod>2010-07-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/project-management/</loc>
+    <lastmod>2010-07-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/post/why-projects-fail/</loc>
+    <lastmod>2010-07-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/text-editor/</loc>
+    <lastmod>2010-06-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/post/ultimate-vim-config/</loc>
+    <lastmod>2010-06-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/post/moving-to-wordpress/</loc>
+    <lastmod>2010-06-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/wordpress-3.0/</loc>
+    <lastmod>2010-06-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/post/the-golden-hammer/</loc>
+    <lastmod>2010-04-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/cassandra/</loc>
+    <lastmod>2010-04-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/post/nosql-databases/</loc>
+    <lastmod>2010-04-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/resources/</loc>
+    <lastmod>2010-04-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/cake/</loc>
+    <lastmod>2010-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/frameworks/</loc>
+    <lastmod>2010-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/lithium/</loc>
+    <lastmod>2010-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/post/next-gen-php-frameworks/</loc>
+    <lastmod>2010-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/zoop/</loc>
+    <lastmod>2010-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/post/finding-the-right-people/</loc>
+    <lastmod>2010-03-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/hiring/</loc>
+    <lastmod>2010-03-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/leadership/</loc>
+    <lastmod>2010-03-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/recruiting/</loc>
+    <lastmod>2010-03-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/post/transitions/</loc>
+    <lastmod>2010-03-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/post/vim-crash-course/</loc>
+    <lastmod>2010-03-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/screen/</loc>
+    <lastmod>2010-02-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/sysadmin/</loc>
+    <lastmod>2010-02-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/systems/</loc>
+    <lastmod>2010-02-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/unix/</loc>
+    <lastmod>2010-02-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/post/unix-jobs-management/</loc>
+    <lastmod>2010-02-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/du/</loc>
+    <lastmod>2010-01-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/post/human-readable-du-sorted-by-size/</loc>
+    <lastmod>2010-01-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/profile/</loc>
+    <lastmod>2010-01-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/aws/</loc>
+    <lastmod>2010-01-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/post/benchmarking-cloudfront-and-s3/</loc>
+    <lastmod>2010-01-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/cloudfront/</loc>
+    <lastmod>2010-01-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/password/</loc>
+    <lastmod>2010-01-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/s3/</loc>
+    <lastmod>2010-01-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/security/</loc>
+    <lastmod>2010-01-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/post/using-the-right-keys/</loc>
+    <lastmod>2010-01-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/api/</loc>
+    <lastmod>2010-01-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/remote-procedure-call/</loc>
+    <lastmod>2010-01-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/representational-state-transfer/</loc>
+    <lastmod>2010-01-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/rest/</loc>
+    <lastmod>2010-01-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/post/soap-vs-rest/</loc>
+    <lastmod>2010-01-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/rpc/</loc>
+    <lastmod>2010-01-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/soap/</loc>
+    <lastmod>2010-01-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/software-architecture/</loc>
+    <lastmod>2010-01-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/web-service/</loc>
+    <lastmod>2010-01-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/web-services/</loc>
+    <lastmod>2010-01-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/web-standards/</loc>
+    <lastmod>2010-01-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/ws-security/</loc>
+    <lastmod>2010-01-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/jquery/</loc>
+    <lastmod>2010-01-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/post/my-online-business-card-vcard/</loc>
+    <lastmod>2010-01-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/vcard/</loc>
+    <lastmod>2010-01-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/post/7-security-practices-you-need-to-follow/</loc>
+    <lastmod>2009-12-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/post/top-sites-running-drupal/</loc>
+    <lastmod>2009-12-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/keychain/</loc>
+    <lastmod>2009-12-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/rsa/</loc>
+    <lastmod>2009-12-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/post/secure-automated-key-based-ssh/</loc>
+    <lastmod>2009-12-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/ssh/</loc>
+    <lastmod>2009-12-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/ssh-agent/</loc>
+    <lastmod>2009-12-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/bill-gates/</loc>
+    <lastmod>2009-12-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/post/fascinating-interview-with-steve-jobs-and-bill-gates/</loc>
+    <lastmod>2009-12-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/focus/</loc>
+    <lastmod>2009-12-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/steve-jobs/</loc>
+    <lastmod>2009-12-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/success/</loc>
+    <lastmod>2009-12-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/post/the-importance-of-focus/</loc>
+    <lastmod>2009-12-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/post/getting-started-with-drupal/</loc>
+    <lastmod>2009-12-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/snipmate/</loc>
+    <lastmod>2009-12-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/post/vim-plugins-snipmate/</loc>
+    <lastmod>2009-12-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/post/checking-vendor-references/</loc>
+    <lastmod>2009-12-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/it/</loc>
+    <lastmod>2009-12-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/vendor/</loc>
+    <lastmod>2009-12-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/post/a-better-follow-friday/</loc>
+    <lastmod>2009-12-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/follow-friday/</loc>
+    <lastmod>2009-12-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/post/engaging-employees/</loc>
+    <lastmod>2009-12-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/1and1/</loc>
+    <lastmod>2009-11-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/post/does-seth-godin-get-it/</loc>
+    <lastmod>2009-11-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/godaddy/</loc>
+    <lastmod>2009-11-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/post/installing-git-on-a-shared-host/</loc>
+    <lastmod>2009-11-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/post/apples-iconic-presentations/</loc>
+    <lastmod>2009-11-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/post/vim-plugins-nerd-commenter/</loc>
+    <lastmod>2009-11-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/cli/</loc>
+    <lastmod>2009-11-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/command-line/</loc>
+    <lastmod>2009-11-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/emacs/</loc>
+    <lastmod>2009-11-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/post/mastering-the-command-line/</loc>
+    <lastmod>2009-11-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/post/everything-is-amazing-and-nobodys-happy/</loc>
+    <lastmod>2009-10-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/post/conclusion-of-the-blog-a-thon/</loc>
+    <lastmod>2009-10-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/help/</loc>
+    <lastmod>2009-10-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/karma/</loc>
+    <lastmod>2009-10-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/post/take-time-to-help-others/</loc>
+    <lastmod>2009-10-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/win-7/</loc>
+    <lastmod>2009-10-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/windows/</loc>
+    <lastmod>2009-10-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/post/windows-7-launch-notes/</loc>
+    <lastmod>2009-10-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/post/54-us-companies-ban-social-media-and-thats-fine/</loc>
+    <lastmod>2009-10-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/linkedin/</loc>
+    <lastmod>2009-10-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/post/managing-your-social-media-presence/</loc>
+    <lastmod>2009-10-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/feed/</loc>
+    <lastmod>2009-10-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/feedburner/</loc>
+    <lastmod>2009-10-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/post/migrating-to-feedburner/</loc>
+    <lastmod>2009-10-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/search/</loc>
+    <lastmod>2009-10-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/semantic-web/</loc>
+    <lastmod>2009-10-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/social-web/</loc>
+    <lastmod>2009-10-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/post/the-death-of-search/</loc>
+    <lastmod>2009-10-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/web/</loc>
+    <lastmod>2009-10-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/post/how-i-blog/</loc>
+    <lastmod>2009-10-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/analytics/</loc>
+    <lastmod>2009-10-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/post/analyzing-and-improving-conversion/</loc>
+    <lastmod>2009-10-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/conversion/</loc>
+    <lastmod>2009-10-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/marketing/</loc>
+    <lastmod>2009-10-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/post/ranking-social-media/</loc>
+    <lastmod>2009-09-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/post/my-own-private-blogathon/</loc>
+    <lastmod>2009-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/nginx/</loc>
+    <lastmod>2009-09-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/post/using-nginx-as-a-load-balancer/</loc>
+    <lastmod>2009-09-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/cio/</loc>
+    <lastmod>2009-09-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/post/featured-in-cio-magazine/</loc>
+    <lastmod>2009-09-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/post/choosing-a-hosting-partner/</loc>
+    <lastmod>2009-08-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/hosting/</loc>
+    <lastmod>2009-08-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/post/social-media-recognition/</loc>
+    <lastmod>2009-07-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/post/new-facebook-in-depth-review/</loc>
+    <lastmod>2009-07-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/post/setting-up-subversion-with-multiple-access-methods/</loc>
+    <lastmod>2009-05-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/subversion/</loc>
+    <lastmod>2009-05-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/svn/</loc>
+    <lastmod>2009-05-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/apache/</loc>
+    <lastmod>2009-04-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/flickr/</loc>
+    <lastmod>2009-04-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/scaling/</loc>
+    <lastmod>2009-04-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/post/scaling-web-sites-lamp-top-resources-2/</loc>
+    <lastmod>2009-04-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/ebay/</loc>
+    <lastmod>2009-04-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/post/how-to-fix-a-broken-marketplace-ebay/</loc>
+    <lastmod>2009-04-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/marketplace/</loc>
+    <lastmod>2009-04-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/myspace/</loc>
+    <lastmod>2009-04-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/post/stop-twitter-from-becoming-the-next-myspace/</loc>
+    <lastmod>2009-04-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/post/facebook-meets-twitter-friendfeed/</loc>
+    <lastmod>2009-03-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/friendfeed/</loc>
+    <lastmod>2009-03-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/economy/</loc>
+    <lastmod>2009-01-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/employment/</loc>
+    <lastmod>2009-01-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/post/growing-in-the-down-economy/</loc>
+    <lastmod>2009-01-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/post/backup-your-files/</loc>
+    <lastmod>2008-12-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/capital/</loc>
+    <lastmod>2008-12-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/luxury/</loc>
+    <lastmod>2008-12-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/portero/</loc>
+    <lastmod>2008-12-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/post/portero-raises-6-6-million/</loc>
+    <lastmod>2008-12-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/vc/</loc>
+    <lastmod>2008-12-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/archive/</loc>
+    <lastmod>2008-12-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/post/backing-up-mysql/</loc>
+    <lastmod>2008-12-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/post/one-hundred-pushups/</loc>
+    <lastmod>2008-12-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/pushups/</loc>
+    <lastmod>2008-12-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/blackberry/</loc>
+    <lastmod>2008-11-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/post/how-rim-handed-the-mobile-market-over-to-apple/</loc>
+    <lastmod>2008-11-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/iphone/</loc>
+    <lastmod>2008-11-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/rim/</loc>
+    <lastmod>2008-11-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/cisco/</loc>
+    <lastmod>2008-10-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/post/hire-your-next-consultant-using-twitter/</loc>
+    <lastmod>2008-10-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/announcement/</loc>
+    <lastmod>2008-09-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/post/promotion/</loc>
+    <lastmod>2008-09-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/post/why-are-you-still-shopping-offline/</loc>
+    <lastmod>2008-09-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/firefox/</loc>
+    <lastmod>2008-08-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/mac/</loc>
+    <lastmod>2008-08-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/post/managing-multiple-firefox-profiles-in-os-x/</loc>
+    <lastmod>2008-08-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/os-x/</loc>
+    <lastmod>2008-08-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/script/</loc>
+    <lastmod>2008-08-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/svk/</loc>
+    <lastmod>2008-08-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/post/using-svk-to-increase-productivity/</loc>
+    <lastmod>2008-08-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/post/the-15-best-vim-plugins/</loc>
+    <lastmod>2008-07-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/post/implementing-a-corporate-wiki/</loc>
+    <lastmod>2008-07-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/wiki/</loc>
+    <lastmod>2008-07-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/post/why-are-you-not-on-twitter/</loc>
+    <lastmod>2008-07-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/post/be-more-productive-using-gnu-screen/</loc>
+    <lastmod>2008-07-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/gnu/</loc>
+    <lastmod>2008-07-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spf13.com/tags/terminal/</loc>
+    <lastmod>2008-07-03T00:00:00+00:00</lastmod>
+  </url>
+  
+</urlset>
