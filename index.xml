@@ -18,6 +18,19 @@
     </item>
     
     <item>
+      <title>这是一份测试的blog</title>
+      <link>https://joe07274.github.io/myblog/project/blog_20210105_2/</link>
+      <pubDate>Tue, 05 Jan 2021 06:58:25 +0000</pubDate>
+      
+      <guid>https://joe07274.github.io/myblog/project/blog_20210105_2/</guid>
+      <description>测试下mirror的抓取功能是否符合预期
+这里是图片： 这里是链接： https://www.cirmall.com/bbs/thread-15274-1-1.html
+这里是文本 这里是划线
+这里是补充说明 补充说明1  本文通过 mirror 和 hugo 生成，原始地址 https://github.com/joe07274/blog/issues/2
+ </description>
+    </item>
+    
+    <item>
       <title>使用github的issues功能写博客</title>
       <link>https://joe07274.github.io/myblog/project/blog_20201003_1/</link>
       <pubDate>Sat, 03 Oct 2020 02:36:25 +0000</pubDate>
@@ -25,7 +38,7 @@
       <guid>https://joe07274.github.io/myblog/project/blog_20201003_1/</guid>
       <description>参考的资料： https://github.com/zp1112/blog/issues/3
  本文通过 mirror 和 hugo 生成，原始地址 https://github.com/joe07274/blog/issues/1
- </description>
+ log/issues/1</description>
     </item>
     
   </channel>
