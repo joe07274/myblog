@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2008 - 2019, Steve Francia; all rights reserved.</copyright>
-    <lastBuildDate>Tue, 05 Jan 2021 16:31:36 +0000</lastBuildDate><atom:link href="https://joe07274.github.io/myblog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 06 Jan 2021 03:22:47 +0000</lastBuildDate><atom:link href="https://joe07274.github.io/myblog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>自动化测试文档</title>
+      <link>https://joe07274.github.io/myblog/project/blog_20210106_4/</link>
+      <pubDate>Wed, 06 Jan 2021 03:22:47 +0000</pubDate>
+      
+      <guid>https://joe07274.github.io/myblog/project/blog_20210106_4/</guid>
+      <description>自动化测试构建blog机制是否生效  本文通过 mirror 和 hugo 生成，原始地址 https://github.com/joe07274/blog/issues/4
+ </description>
+    </item>
+    
     <item>
       <title>这是一篇测试文档</title>
       <link>https://joe07274.github.io/myblog/project/blog_20210105_3/</link>
