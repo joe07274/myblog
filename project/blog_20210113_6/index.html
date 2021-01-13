@@ -15,16 +15,16 @@
  
 <meta property="og:type" content="article"/>
 <meta property="og:description" content=""/>
-<meta property="og:title" content="自动化测试文档 : spf13.com"/>
+<meta property="og:title" content="树莓派通过USB桥接电脑进行通信（实战篇） : spf13.com"/>
 <meta property="og:site_name" content="spf13 is Steve Francia"/>
 <meta property="og:image" content="" />
 <meta property="og:image:type" content="image/jpeg" />
 <meta property="og:image:width" content="" />
 <meta property="og:image:height" content="" />
-<meta property="og:url" content="https://joe07274.github.io/myblog/project/blog_20210106_4/">
+<meta property="og:url" content="https://joe07274.github.io/myblog/project/blog_20210113_6/">
 <meta property="og:locale" content="en_US">
-<meta property="article:published_time" content="2021-01-06"/>
-<meta property="article:modified_time" content="2021-01-06"/>
+<meta property="article:published_time" content="2021-01-13"/>
+<meta property="article:modified_time" content="2021-01-13"/>
 
 
 
@@ -33,7 +33,7 @@
 <meta name="twitter:card" content="summary">
 
 <meta name="twitter:site" content="@spf13">
-<meta name="twitter:title" content="自动化测试文档 : spf13.com">
+<meta name="twitter:title" content="树莓派通过USB桥接电脑进行通信（实战篇） : spf13.com">
 <meta name="twitter:creator" content="@spf13">
 <meta name="twitter:description" content="">
 <meta name="twitter:image:src" content="">
@@ -42,8 +42,8 @@
 
 
     <base href="https://joe07274.github.io/myblog">
-    <title> 自动化测试文档 - spf13.com </title>
-    <link rel="canonical" href="https://joe07274.github.io/myblog/project/blog_20210106_4/">
+    <title> 树莓派通过USB桥接电脑进行通信（实战篇） - spf13.com </title>
+    <link rel="canonical" href="https://joe07274.github.io/myblog/project/blog_20210113_6/">
     
 
     <link href='https://fonts.useso.com/css?family=Fjalla+One|Open+Sans:300' rel='stylesheet' type='text/css'>
@@ -104,12 +104,39 @@
 
 
 <section id="main">
-  <h1 itemprop="name" id="title">自动化测试文档</h1>
+  <h1 itemprop="name" id="title">树莓派通过USB桥接电脑进行通信（实战篇）</h1>
   <div>
         <article itemprop="articleBody" id="content">
-           <h3 id="自动化测试构建blog机制是否生效">自动化测试构建blog机制是否生效</h3>
+           <p>树莓派 Zero 之所以成为一款非常棒的单板计算机并不全因为它小巧的尺寸和便宜的价格，还得益于它便捷、易用的特性。在加装了Zero Quick Plug或 microUSB/USB 转换头之后，将树莓派 Zero 和电脑连接起来。树莓派 Zero 即可配置成 USB/以太网设备，这时仅需要一个 USB 接口就实现给树莓派供电的同时将它接入因特网。不再需要携带额外的电源适配器、 USB HUB和无线网卡。可以说这是迄今为止连接树莓派最简单、方便的方式！</p>
+<p><img src="https://user-images.githubusercontent.com/4698688/104398323-782c9400-5589-11eb-94e6-5072b611db8b.png" alt="image"></p>
+<p>对于 Raspbian 2016-10-5 之后的系统镜像，你只需要在系统 SD 卡上修改几处配置文件即可将树莓派配置成一个 USB/以太网设备。</p>
+<h3 id="配置-configtxt-和-cmdlinetxt-文件">配置 CONFIG.TXT 和 CMDLINE.TXT 文件</h3>
+<p>请确认你刷入的系统镜像是 2016-10-5 之后的版本。将刷好系统的 SD 卡在电脑上打开，进入 SD 卡根目录并打开 config.txt 文件。在文件末尾添加一行 dtoverlay=dwc2。
+<img src="https://user-images.githubusercontent.com/4698688/104398127-208e2880-5589-11eb-8186-92813579a4e4.png" alt="image"></p>
+<p>保存并关闭 config.txt 文件。</p>
+<p>再打开 cmdline.txt 文件，请确认你的编辑器已关闭“自动换行”。编辑这个文件的时候不需要插入任何换行符，所有字符都在同一行。找到 rootwait，在后面插入 modules-load=dwc2,g_ether。
+<img src="https://user-images.githubusercontent.com/4698688/104398352-837fbf80-5589-11eb-9aab-d657a9e85044.png" alt="image"></p>
+<p>保存并关闭 cmdline.txt 文件。</p>
+<h3 id="在根目录创建一个名为-ssh-的文件或目录">在根目录创建一个名为 ssh 的文件或目录。</h3>
+<p><img src="https://user-images.githubusercontent.com/4698688/104398369-8a0e3700-5589-11eb-800e-050f43f13a19.png" alt="image"></p>
+<h3 id="启动并登录树莓派zero系统">启动并登录树莓派Zero系统</h3>
+<p>把 SD 卡插入树莓派 Zero，用Zero Quick Plug或 microUSB/USB 转换头将树莓派 Zero 和电脑连接起来。
+<img src="https://user-images.githubusercontent.com/4698688/104398399-9abead00-5589-11eb-83b8-c9464ce18e8f.png" alt="image"></p>
+<p>图中用到的这款连接部件是树莓派 Zero 多功能 USB 插头（Zero Quick Plug）。
+这时系统会自动识别到树莓派。
+等待树莓派启动可能需要半分钟，然后就可以在网络列表中看到了设备已分配好 IP 地址。
+<img src="https://user-images.githubusercontent.com/4698688/104398422-a7430580-5589-11eb-9a4e-f444dd4d6e97.png" alt="image"></p>
+<p>现在，就可以尝试通过 SSH 连接树莓派的地址 raspberrypi.local 了。
+<img src="https://user-images.githubusercontent.com/4698688/104398443-af9b4080-5589-11eb-8642-bf23c2c423b5.png" alt="image"></p>
+<p>如果你用的是 Raspbian 桌面版，你可以安装一个 RDP（远程桌面协议）客户端然后在电脑上通过远程桌面（ “Remote Desktop Connection for Mac” ）客户端连接到树莓派，连接地址同样是 raspberrypi.local。</p>
+<h3 id="共享pc的网络">共享PC的网络</h3>
+<p>通过上述配置你的树莓派 Zero 还没有接入因特网，有两种方法接入因特网——其一，通过配置 Zero W 板载的无线网卡连接到无线路由器网络；其二，将电脑的网络通过 USB/以太网设备接口方式共享给树莓派，下面介绍第二种方法。</p>
+<p>首先进入 macOS 的“共享”配置界面。
+<img src="https://user-images.githubusercontent.com/4698688/104399768-4cf77400-558c-11eb-998d-b576ed270d37.png" alt="image"></p>
+<p>勾选“Internet Sharing”，并在右侧选择要共享的设备。设置好之后，通过 SSH 登录树莓派，Ping 测试一下就可以看到已经连接上因特网了。
+<img src="https://user-images.githubusercontent.com/4698688/104399789-54b71880-558c-11eb-8f71-92dfb84c783b.png" alt="image"></p>
 <blockquote>
-<p>本文通过 mirror 和 hugo 生成，原始地址 <a href="https://github.com/joe07274/blog/issues/4">https://github.com/joe07274/blog/issues/4</a></p>
+<p>本文通过 mirror 和 hugo 生成，原始地址 <a href="https://github.com/joe07274/blog/issues/6">https://github.com/joe07274/blog/issues/6</a></p>
 </blockquote>
 
         </article>
@@ -135,8 +162,8 @@
 
     <div>
         <section id="datecount">
-          <h4 id="date"> Wed Jan 6, 2021 </h4>
-          <h5 id="wc"> 100 Words </h5>
+          <h4 id="date"> Wed Jan 13, 2021 </h4>
+          <h5 id="wc"> 200 Words </h5>
           <h5 id="readtime"> Read in about 1 Min </h5>
         </section>
         <ul id="categories">
@@ -149,9 +176,9 @@
 
     <div>
         <section id="prev">
-            &nbsp;<a class="previous" href="https://joe07274.github.io/myblog/project/blog_20210105_3/"><i class="icon-arrow-left"></i> 这是一篇测试文档</a><br>
+            &nbsp;<a class="previous" href="https://joe07274.github.io/myblog/project/blog_20210106_4/"><i class="icon-arrow-left"></i> 自动化测试文档</a><br>
         </section><section id="next">
-            &nbsp;<a class="next" href="https://joe07274.github.io/myblog/project/blog_20210113_6/">树莓派通过USB桥接电脑进行通信（实战篇） <i class="icon-arrow-right"></i></a>
+            &nbsp;
         </section>
     </div>
 
@@ -194,9 +221,9 @@
 
 </aside>
 
-<meta itemprop="wordCount" content="7">
-<meta itemprop="datePublished" content="2021-01-06">
-<meta itemprop="url" content="https://joe07274.github.io/myblog/project/blog_20210106_4/">
+<meta itemprop="wordCount" content="112">
+<meta itemprop="datePublished" content="2021-01-13">
+<meta itemprop="url" content="https://joe07274.github.io/myblog/project/blog_20210113_6/">
 
 
 

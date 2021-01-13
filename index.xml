@@ -7,7 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2008 - 2019, Steve Francia; all rights reserved.</copyright>
-    <lastBuildDate>Wed, 06 Jan 2021 03:22:47 +0000</lastBuildDate><atom:link href="https://joe07274.github.io/myblog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 13 Jan 2021 02:22:27 +0000</lastBuildDate><atom:link href="https://joe07274.github.io/myblog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>树莓派通过USB桥接电脑进行通信（实战篇）</title>
+      <link>https://joe07274.github.io/myblog/project/blog_20210113_6/</link>
+      <pubDate>Wed, 13 Jan 2021 02:22:27 +0000</pubDate>
+      
+      <guid>https://joe07274.github.io/myblog/project/blog_20210113_6/</guid>
+      <description>树莓派 Zero 之所以成为一款非常棒的单板计算机并不全因为它小巧的尺寸和便宜的价格，还得益于它便捷、易用的特性。在加装了Zero Quick Plug或 microUSB/USB 转换头之后，将树莓派 Zero 和电脑连接起来。树莓派 Zero 即可配置成 USB/以太网设备，这时仅需要一个 USB 接口就实现给树莓派供电的同时将它接入因特网。不再需要携带额外的电源适配器、 USB HUB和无线网卡。可以说这是迄今为止连接树莓派最简单、方便的方式！
+对于 Raspbian 2016-10-5 之后的系统镜像，你只需要在系统 SD 卡上修改几处配置文件即可将树莓派配置成一个 USB/以太网设备。
+配置 CONFIG.TXT 和 CMDLINE.TXT 文件 请确认你刷入的系统镜像是 2016-10-5 之后的版本。将刷好系统的 SD 卡在电脑上打开，进入 SD 卡根目录并打开 config.txt 文件。在文件末尾添加一行 dtoverlay=dwc2。 保存并关闭 config.txt 文件。
+再打开 cmdline.txt 文件，请确认你的编辑器已关闭“自动换行”。编辑这个文件的时候不需要插入任何换行符，所有字符都在同一行。找到 rootwait，在后面插入 modules-load=dwc2,g_ether。 保存并关闭 cmdline.txt 文件。
+在根目录创建一个名为 ssh 的文件或目录。 启动并登录树莓派Zero系统 把 SD 卡插入树莓派 Zero，用Zero Quick Plug或 microUSB/USB 转换头将树莓派 Zero 和电脑连接起来。 图中用到的这款连接部件是树莓派 Zero 多功能 USB 插头（Zero Quick Plug）。 这时系统会自动识别到树莓派。 等待树莓派启动可能需要半分钟，然后就可以在网络列表中看到了设备已分配好 IP 地址。 现在，就可以尝试通过 SSH 连接树莓派的地址 raspberrypi.</description>
+    </item>
+    
     <item>
       <title>自动化测试文档</title>
       <link>https://joe07274.github.io/myblog/project/blog_20210106_4/</link>
