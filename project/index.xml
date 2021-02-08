@@ -7,7 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2008 - 2019, Steve Francia; all rights reserved.</copyright>
-    <lastBuildDate>Wed, 13 Jan 2021 02:22:27 +0000</lastBuildDate><atom:link href="https://joe07274.github.io/myblog/project/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 28 Jan 2021 02:18:45 +0000</lastBuildDate><atom:link href="https://joe07274.github.io/myblog/project/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>openWrt基于chinaDNS的域名解析防污染搭建</title>
+      <link>https://joe07274.github.io/myblog/project/blog_20210128_10/</link>
+      <pubDate>Thu, 28 Jan 2021 02:18:45 +0000</pubDate>
+      
+      <guid>https://joe07274.github.io/myblog/project/blog_20210128_10/</guid>
+      <description>方案： 因为考虑到移动端也想FQ出去访问，而且当时移动端访问就已经构建好了shadowsocks，所以这次在OpenWRT上也就选用了透明代理+shadowsocks的方案。这套方案已经有很多教程文档，所以不赘述如何构建，更多是分享下自己的调试经历。 因为OpenWRT里面已经集成了DNSmasq，所以子网访问的DNS请求会直接去请求OpenWRT中的DNSmasq服务，这也是为什么很多时候初始安装完OpenWRT无法访问到公网服务，提示The Host is not resolvable错误的主要原因，对没有配置DNS经验的小白上手会有些懵。 同样道理，FQ出去的访问请求也需要DNS解析，而为了避免被GFW的DNS污染。所以，业界已经有一套完整的解决方案，就是China-DNS + DNS-Foward的方案。其中China-DNS主要是为了通过一个过滤名单，将需要FQ的解析走指定的特殊路径，而国内的域名请求则直接bypass，而这里指的特殊路径就是另外一个工具DNS-Foward来完成。所以为了防止被污染域名的DNS请求路径就是： DNSmasq -&amp;gt; China-DNS -&amp;gt; DNS-Foward 在我构建环境中，上述三个服务对应的端口则分别是： 53 -&amp;gt; 35353 -&amp;gt; 35352 整个FQ的访问链路入下图所示， 其中红色部分为DNS请求的路径（即上述描述路径），其中绿色部分为网站业务访问的路径（直接走shadowsocks）。
+部署示意图： 部署细节： ChinaDNS配置： DNS-Forward配置： DNSmasq配置： 调试方法： 因为DNS解析访问链路长，对初始使用的情况摸索和调试就会是非常痛苦的过程。 首先需求确认服务是否都已启动ok，方法命令行： 如果发现三个服务的进程都是已经正常运行，恭喜，setp1成功， 这里比较坑的是chinaDNS，因为默认端口5353，可能部分的OpenWrt系统有服务端口冲突问题，所以这也是为什么我改为了35353，这个点一定要细心check 其次开始测试国内域名的访问是否正常，方法命令行： 如果53端口可以访问通，恭喜，DNSmasq工作正常 最后开始测试FQ域名的访问是否正常，方法命令行： 如果35353端口可以访问通，恭喜，ChinaDNS工作正常 再测试下53端口，方法命令行： 此时，如果解析ye也成功，并且解析记录和上一次相同，那么说明DNSmasq走ChinaDNS工作正常， 然后就是可以再浏览器中尝试下访问，如果能够访问通，那就大功告成了。 如果访问不通，此时就要留意下报错信息，如果是The Host is not resolvable，那就是大概率域名还是被污染，建议更换下DNS-Foward的海外DNS服务器然后再试试。如果是被TCP reset了，那说明shadowsocks服务可能被了。
+参考： openwrt路由器dnsmasq部分域名无法解析 加速你的网络！DNS 去AD+抗污染+速度优选 综合方案（独立使用） Shadowsocks + OpenWRT + dnsmasq-full + ipset + gfwList 实现路由器（小米路由器 mini）自动翻墙 科学上网3：macos使用shadowsocks做透明代理
+ 本文通过 mirror 和 hugo 生成，原始地址 https://github.com/joe07274/blog/issues/10</description>
+    </item>
+    
     <item>
       <title>树莓派通过USB桥接电脑进行通信（实战篇）</title>
       <link>https://joe07274.github.io/myblog/project/blog_20210113_6/</link>

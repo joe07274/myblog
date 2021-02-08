@@ -15,16 +15,16 @@
  
 <meta property="og:type" content="article"/>
 <meta property="og:description" content=""/>
-<meta property="og:title" content="树莓派通过USB桥接电脑进行通信（实战篇） : spf13.com"/>
+<meta property="og:title" content="openWrt基于chinaDNS的域名解析防污染搭建 : spf13.com"/>
 <meta property="og:site_name" content="spf13 is Steve Francia"/>
 <meta property="og:image" content="" />
 <meta property="og:image:type" content="image/jpeg" />
 <meta property="og:image:width" content="" />
 <meta property="og:image:height" content="" />
-<meta property="og:url" content="https://joe07274.github.io/myblog/project/blog_20210113_6/">
+<meta property="og:url" content="https://joe07274.github.io/myblog/project/blog_20210128_10/">
 <meta property="og:locale" content="en_US">
-<meta property="article:published_time" content="2021-01-13"/>
-<meta property="article:modified_time" content="2021-01-13"/>
+<meta property="article:published_time" content="2021-01-28"/>
+<meta property="article:modified_time" content="2021-01-28"/>
 
 
 
@@ -33,7 +33,7 @@
 <meta name="twitter:card" content="summary">
 
 <meta name="twitter:site" content="@spf13">
-<meta name="twitter:title" content="树莓派通过USB桥接电脑进行通信（实战篇） : spf13.com">
+<meta name="twitter:title" content="openWrt基于chinaDNS的域名解析防污染搭建 : spf13.com">
 <meta name="twitter:creator" content="@spf13">
 <meta name="twitter:description" content="">
 <meta name="twitter:image:src" content="">
@@ -42,8 +42,8 @@
 
 
     <base href="https://joe07274.github.io/myblog">
-    <title> 树莓派通过USB桥接电脑进行通信（实战篇） - spf13.com </title>
-    <link rel="canonical" href="https://joe07274.github.io/myblog/project/blog_20210113_6/">
+    <title> openWrt基于chinaDNS的域名解析防污染搭建 - spf13.com </title>
+    <link rel="canonical" href="https://joe07274.github.io/myblog/project/blog_20210128_10/">
     
 
     <link href='https://fonts.useso.com/css?family=Fjalla+One|Open+Sans:300' rel='stylesheet' type='text/css'>
@@ -104,39 +104,51 @@
 
 
 <section id="main">
-  <h1 itemprop="name" id="title">树莓派通过USB桥接电脑进行通信（实战篇）</h1>
+  <h1 itemprop="name" id="title">openWrt基于chinaDNS的域名解析防污染搭建</h1>
   <div>
         <article itemprop="articleBody" id="content">
-           <p>树莓派 Zero 之所以成为一款非常棒的单板计算机并不全因为它小巧的尺寸和便宜的价格，还得益于它便捷、易用的特性。在加装了Zero Quick Plug或 microUSB/USB 转换头之后，将树莓派 Zero 和电脑连接起来。树莓派 Zero 即可配置成 USB/以太网设备，这时仅需要一个 USB 接口就实现给树莓派供电的同时将它接入因特网。不再需要携带额外的电源适配器、 USB HUB和无线网卡。可以说这是迄今为止连接树莓派最简单、方便的方式！</p>
-<p><img src="https://user-images.githubusercontent.com/4698688/104398323-782c9400-5589-11eb-94e6-5072b611db8b.png" alt="image"></p>
-<p>对于 Raspbian 2016-10-5 之后的系统镜像，你只需要在系统 SD 卡上修改几处配置文件即可将树莓派配置成一个 USB/以太网设备。</p>
-<h3 id="配置-configtxt-和-cmdlinetxt-文件">配置 CONFIG.TXT 和 CMDLINE.TXT 文件</h3>
-<p>请确认你刷入的系统镜像是 2016-10-5 之后的版本。将刷好系统的 SD 卡在电脑上打开，进入 SD 卡根目录并打开 config.txt 文件。在文件末尾添加一行 dtoverlay=dwc2。
-<img src="https://user-images.githubusercontent.com/4698688/104398127-208e2880-5589-11eb-8186-92813579a4e4.png" alt="image"></p>
-<p>保存并关闭 config.txt 文件。</p>
-<p>再打开 cmdline.txt 文件，请确认你的编辑器已关闭“自动换行”。编辑这个文件的时候不需要插入任何换行符，所有字符都在同一行。找到 rootwait，在后面插入 modules-load=dwc2,g_ether。
-<img src="https://user-images.githubusercontent.com/4698688/104398352-837fbf80-5589-11eb-9aab-d657a9e85044.png" alt="image"></p>
-<p>保存并关闭 cmdline.txt 文件。</p>
-<h3 id="在根目录创建一个名为-ssh-的文件或目录">在根目录创建一个名为 ssh 的文件或目录。</h3>
-<p><img src="https://user-images.githubusercontent.com/4698688/104398369-8a0e3700-5589-11eb-800e-050f43f13a19.png" alt="image"></p>
-<h3 id="启动并登录树莓派zero系统">启动并登录树莓派Zero系统</h3>
-<p>把 SD 卡插入树莓派 Zero，用Zero Quick Plug或 microUSB/USB 转换头将树莓派 Zero 和电脑连接起来。
-<img src="https://user-images.githubusercontent.com/4698688/104398399-9abead00-5589-11eb-83b8-c9464ce18e8f.png" alt="image"></p>
-<p>图中用到的这款连接部件是树莓派 Zero 多功能 USB 插头（Zero Quick Plug）。
-这时系统会自动识别到树莓派。
-等待树莓派启动可能需要半分钟，然后就可以在网络列表中看到了设备已分配好 IP 地址。
-<img src="https://user-images.githubusercontent.com/4698688/104398422-a7430580-5589-11eb-9a4e-f444dd4d6e97.png" alt="image"></p>
-<p>现在，就可以尝试通过 SSH 连接树莓派的地址 raspberrypi.local 了。
-<img src="https://user-images.githubusercontent.com/4698688/104398443-af9b4080-5589-11eb-8642-bf23c2c423b5.png" alt="image"></p>
-<p>如果你用的是 Raspbian 桌面版，你可以安装一个 RDP（远程桌面协议）客户端然后在电脑上通过远程桌面（ “Remote Desktop Connection for Mac” ）客户端连接到树莓派，连接地址同样是 raspberrypi.local。</p>
-<h3 id="共享pc的网络">共享PC的网络</h3>
-<p>通过上述配置你的树莓派 Zero 还没有接入因特网，有两种方法接入因特网——其一，通过配置 Zero W 板载的无线网卡连接到无线路由器网络；其二，将电脑的网络通过 USB/以太网设备接口方式共享给树莓派，下面介绍第二种方法。</p>
-<p>首先进入 macOS 的“共享”配置界面。
-<img src="https://user-images.githubusercontent.com/4698688/104399768-4cf77400-558c-11eb-998d-b576ed270d37.png" alt="image"></p>
-<p>勾选“Internet Sharing”，并在右侧选择要共享的设备。设置好之后，通过 SSH 登录树莓派，Ping 测试一下就可以看到已经连接上因特网了。
-<img src="https://user-images.githubusercontent.com/4698688/104399789-54b71880-558c-11eb-8f71-92dfb84c783b.png" alt="image"></p>
+           <h1 id="方案">方案：</h1>
+<p>因为考虑到移动端也想FQ出去访问，而且当时移动端访问就已经构建好了shadowsocks，所以这次在OpenWRT上也就选用了透明代理+shadowsocks的方案。这套方案已经有很多教程文档，所以不赘述如何构建，更多是分享下自己的调试经历。
+因为OpenWRT里面已经集成了DNSmasq，所以子网访问的DNS请求会直接去请求OpenWRT中的DNSmasq服务，这也是为什么很多时候初始安装完OpenWRT无法访问到公网服务，提示The Host is not resolvable错误的主要原因，对没有配置DNS经验的小白上手会有些懵。
+同样道理，FQ出去的访问请求也需要DNS解析，而为了避免被GFW的DNS污染。所以，业界已经有一套完整的解决方案，就是China-DNS + DNS-Foward的方案。其中China-DNS主要是为了通过一个过滤名单，将需要FQ的解析走指定的特殊路径，而国内的域名请求则直接bypass，而这里指的特殊路径就是另外一个工具DNS-Foward来完成。所以为了防止被污染域名的DNS请求路径就是：
+DNSmasq -&gt; China-DNS -&gt; DNS-Foward
+在我构建环境中，上述三个服务对应的端口则分别是：
+53 -&gt; 35353 -&gt; 35352
+整个FQ的访问链路入下图所示，
+其中红色部分为DNS请求的路径（即上述描述路径），其中绿色部分为网站业务访问的路径（直接走shadowsocks）。</p>
+<h1 id="部署示意图">部署示意图：</h1>
+<p><img src="https://user-images.githubusercontent.com/4698688/107249701-909bab80-6a6e-11eb-9ffa-208ecdd273a3.png" alt="image"></p>
+<h1 id="部署细节">部署细节：</h1>
+<h2 id="chinadns配置">ChinaDNS配置：</h2>
+<p><img src="https://user-images.githubusercontent.com/4698688/107255934-ca22e580-6a73-11eb-8967-ec2a39c9b18b.png" alt="image"></p>
+<h2 id="dns-forward配置">DNS-Forward配置：</h2>
+<p><img src="https://user-images.githubusercontent.com/4698688/107256182-20902400-6a74-11eb-9344-13f36c05613d.png" alt="image"></p>
+<h2 id="dnsmasq配置">DNSmasq配置：</h2>
+<p><img src="https://user-images.githubusercontent.com/4698688/107256141-140bcb80-6a74-11eb-8c2f-71e93cb0d38b.png" alt="image"></p>
+<h1 id="调试方法">调试方法：</h1>
+<p>因为DNS解析访问链路长，对初始使用的情况摸索和调试就会是非常痛苦的过程。
+首先需求确认服务是否都已启动ok，方法命令行：
+<img src="https://user-images.githubusercontent.com/4698688/107253402-3c45fb00-6a71-11eb-934a-33d7607974b6.png" alt="image">
+如果发现三个服务的进程都是已经正常运行，恭喜，setp1成功，
+这里比较坑的是chinaDNS，因为默认端口5353，可能部分的OpenWrt系统有服务端口冲突问题，所以这也是为什么我改为了35353，这个点一定要细心check
+其次开始测试国内域名的访问是否正常，方法命令行：
+<img src="https://user-images.githubusercontent.com/4698688/107255755-9ba50a80-6a73-11eb-96c3-d9920ecae367.png" alt="image"></p>
+<p>如果53端口可以访问通，恭喜，DNSmasq工作正常
+最后开始测试FQ域名的访问是否正常，方法命令行：
+<img src="https://user-images.githubusercontent.com/4698688/107254877-b1fe9680-6a72-11eb-8da6-1380dc17e3f5.png" alt="image">
+如果35353端口可以访问通，恭喜，ChinaDNS工作正常
+再测试下53端口，方法命令行：
+<img src="https://user-images.githubusercontent.com/4698688/107254996-d195bf00-6a72-11eb-890d-78e596dc22f3.png" alt="image">
+此时，如果解析ye也成功，并且解析记录和上一次相同，那么说明DNSmasq走ChinaDNS工作正常，
+然后就是可以再浏览器中尝试下访问，如果能够访问通，那就大功告成了。
+如果访问不通，此时就要留意下报错信息，如果是The Host is not resolvable，那就是大概率域名还是被污染，建议更换下DNS-Foward的海外DNS服务器然后再试试。如果是被TCP reset了，那说明shadowsocks服务可能被了。</p>
+<h1 id="参考">参考：</h1>
+<p><a href="https://lisupy.github.io/2020/02/08/openwrt%E8%B7%AF%E7%94%B1%E5%99%A8dnsmasq%E9%83%A8%E5%88%86%E5%9F%9F%E5%90%8D%E6%97%A0%E6%B3%95%E8%A7%A3%E6%9E%90/#%E7%8E%B0%E8%B1%A1">openwrt路由器dnsmasq部分域名无法解析</a>
+<a href="https://my.oschina.net/u/4416039/blog/3308875">加速你的网络！DNS 去AD+抗污染+速度优选 综合方案（独立使用）</a>
+<a href="https://swsmile.info/post/shwdowsocks-openwrt-dnsmasq-bypass-gfw/">Shadowsocks + OpenWRT + dnsmasq-full + ipset + gfwList 实现路由器（小米路由器 mini）自动翻墙</a>
+<a href="https://huhao.ai/macos-shadowsocks-transparent-proxy/">科学上网3：macos使用shadowsocks做透明代理</a></p>
 <blockquote>
-<p>本文通过 mirror 和 hugo 生成，原始地址 <a href="https://github.com/joe07274/blog/issues/6">https://github.com/joe07274/blog/issues/6</a></p>
+<p>本文通过 mirror 和 hugo 生成，原始地址 <a href="https://github.com/joe07274/blog/issues/10">https://github.com/joe07274/blog/issues/10</a></p>
 </blockquote>
 
         </article>
@@ -162,8 +174,8 @@
 
     <div>
         <section id="datecount">
-          <h4 id="date"> Wed Jan 13, 2021 </h4>
-          <h5 id="wc"> 200 Words </h5>
+          <h4 id="date"> Thu Jan 28, 2021 </h4>
+          <h5 id="wc"> 100 Words </h5>
           <h5 id="readtime"> Read in about 1 Min </h5>
         </section>
         <ul id="categories">
@@ -176,9 +188,9 @@
 
     <div>
         <section id="prev">
-            &nbsp;<a class="previous" href="https://joe07274.github.io/myblog/project/blog_20210106_4/"><i class="icon-arrow-left"></i> 自动化测试文档</a><br>
+            &nbsp;<a class="previous" href="https://joe07274.github.io/myblog/project/blog_20210113_6/"><i class="icon-arrow-left"></i> 树莓派通过USB桥接电脑进行通信（实战篇）</a><br>
         </section><section id="next">
-            &nbsp;<a class="next" href="https://joe07274.github.io/myblog/project/blog_20210128_10/">openWrt基于chinaDNS的域名解析防污染搭建 <i class="icon-arrow-right"></i></a>
+            &nbsp;
         </section>
     </div>
 
@@ -221,9 +233,9 @@
 
 </aside>
 
-<meta itemprop="wordCount" content="112">
-<meta itemprop="datePublished" content="2021-01-13">
-<meta itemprop="url" content="https://joe07274.github.io/myblog/project/blog_20210113_6/">
+<meta itemprop="wordCount" content="69">
+<meta itemprop="datePublished" content="2021-01-28">
+<meta itemprop="url" content="https://joe07274.github.io/myblog/project/blog_20210128_10/">
 
 
 
