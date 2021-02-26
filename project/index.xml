@@ -21,6 +21,21 @@
     </item>
     
     <item>
+      <title>pwnagotchi搭建和调试</title>
+      <link>https://joe07274.github.io/myblog/project/blog_20210127_9/</link>
+      <pubDate>Wed, 27 Jan 2021 01:46:49 +0000</pubDate>
+      
+      <guid>https://joe07274.github.io/myblog/project/blog_20210127_9/</guid>
+      <description>硬件清单：   ups电源di&amp;rsquo;ban底板，这个板带时钟   1.33寸屏幕   外壳   树莓派 pi zero w，这个就不介绍了，网上随便哪个店都有卖
+  软件清单： 官方的镜像下载位置： https://github.com/evilsocket/pwnagotchi/releases/tag/v1.5.3 原始镜像有1.9G，而且下载非常缓慢，建议从下面这个国内加速下载的方法： https://d.serctl.com/?uuid=5827f167-913d-4580-9813-7da48faf37d8 最后不要忘记校验下下载的文件sha256是否和官方的一致，做安全这个是习惯
+安装&amp;amp;启动： 1. 烧写镜像 用的是linux的烧写方式，windows可以傻瓜式的用可视化工具烧写，不赘述自行搜索烧写攻略即可，和树莓派烧写方式一致 查看SD卡所在的磁盘路径： sudo fdisk -l 找到自己SD卡所在的挂载路径，其中如果有sdcard1、sdcard2之类的是分区信息，忽略即可，我们要找的是挂载的路径信息
+umount掉当前挂载的SD卡文件系统 sudo umount /dev/sdcard
+开始用dd烧写系统，直接参考pwnagotchi的说明文档即可，很简单，但不要把of路径写错，否则宿主机操作系统gg，或者宿主机磁盘数据被擦写就完蛋了 dd if=path/to/pwnagotchi-raspbian-lite-XXX.img of=/dev/sdcard bs=1M
+2. 配置启动文件 在烧写好镜像文件后，需要在根目录中添加一份启动的配置文件config.toml，先来一个最基本的配置文件
+main.name = \&amp;quot;pwnagotchi\&amp;quot;main.lang = \&amp;quot;en\&amp;quot;main.whitelist = [\&amp;quot;EXAMPLE_NETWORK\&amp;quot;,\&amp;quot;ANOTHER_EXAMPLE_NETWORK\&amp;quot;,\&amp;quot;fo:od:ba:be:fo:od\&amp;quot;,\&amp;quot;fo:od:ba\&amp;quot;]main.plugins.grid.enabled = truemain.plugins.grid.report = truemain.plugins.grid.exclude = [\&amp;quot;YourHomeNetworkHere\&amp;quot;]ui.</description>
+    </item>
+    
+    <item>
       <title>树莓派通过USB桥接电脑进行通信（实战篇）</title>
       <link>https://joe07274.github.io/myblog/project/blog_20210113_6/</link>
       <pubDate>Wed, 13 Jan 2021 02:22:27 +0000</pubDate>

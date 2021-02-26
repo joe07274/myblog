@@ -15,16 +15,16 @@
  
 <meta property="og:type" content="article"/>
 <meta property="og:description" content=""/>
-<meta property="og:title" content="树莓派通过USB桥接电脑进行通信（实战篇） : spf13.com"/>
+<meta property="og:title" content="pwnagotchi搭建和调试 : spf13.com"/>
 <meta property="og:site_name" content="spf13 is Steve Francia"/>
 <meta property="og:image" content="" />
 <meta property="og:image:type" content="image/jpeg" />
 <meta property="og:image:width" content="" />
 <meta property="og:image:height" content="" />
-<meta property="og:url" content="https://joe07274.github.io/myblog/project/blog_20210113_6/">
+<meta property="og:url" content="https://joe07274.github.io/myblog/project/blog_20210127_9/">
 <meta property="og:locale" content="en_US">
-<meta property="article:published_time" content="2021-01-13"/>
-<meta property="article:modified_time" content="2021-01-13"/>
+<meta property="article:published_time" content="2021-01-27"/>
+<meta property="article:modified_time" content="2021-01-27"/>
 
 
 
@@ -33,7 +33,7 @@
 <meta name="twitter:card" content="summary">
 
 <meta name="twitter:site" content="@spf13">
-<meta name="twitter:title" content="树莓派通过USB桥接电脑进行通信（实战篇） : spf13.com">
+<meta name="twitter:title" content="pwnagotchi搭建和调试 : spf13.com">
 <meta name="twitter:creator" content="@spf13">
 <meta name="twitter:description" content="">
 <meta name="twitter:image:src" content="">
@@ -42,8 +42,8 @@
 
 
     <base href="https://joe07274.github.io/myblog">
-    <title> 树莓派通过USB桥接电脑进行通信（实战篇） - spf13.com </title>
-    <link rel="canonical" href="https://joe07274.github.io/myblog/project/blog_20210113_6/">
+    <title> pwnagotchi搭建和调试 - spf13.com </title>
+    <link rel="canonical" href="https://joe07274.github.io/myblog/project/blog_20210127_9/">
     
 
     <link href='https://fonts.useso.com/css?family=Fjalla+One|Open+Sans:300' rel='stylesheet' type='text/css'>
@@ -104,39 +104,113 @@
 
 
 <section id="main">
-  <h1 itemprop="name" id="title">树莓派通过USB桥接电脑进行通信（实战篇）</h1>
+  <h1 itemprop="name" id="title">pwnagotchi搭建和调试</h1>
   <div>
         <article itemprop="articleBody" id="content">
-           <p>树莓派 Zero 之所以成为一款非常棒的单板计算机并不全因为它小巧的尺寸和便宜的价格，还得益于它便捷、易用的特性。在加装了Zero Quick Plug或 microUSB/USB 转换头之后，将树莓派 Zero 和电脑连接起来。树莓派 Zero 即可配置成 USB/以太网设备，这时仅需要一个 USB 接口就实现给树莓派供电的同时将它接入因特网。不再需要携带额外的电源适配器、 USB HUB和无线网卡。可以说这是迄今为止连接树莓派最简单、方便的方式！</p>
-<p><img src="https://user-images.githubusercontent.com/4698688/104398323-782c9400-5589-11eb-94e6-5072b611db8b.png" alt="image"></p>
-<p>对于 Raspbian 2016-10-5 之后的系统镜像，你只需要在系统 SD 卡上修改几处配置文件即可将树莓派配置成一个 USB/以太网设备。</p>
-<h3 id="配置-configtxt-和-cmdlinetxt-文件">配置 CONFIG.TXT 和 CMDLINE.TXT 文件</h3>
-<p>请确认你刷入的系统镜像是 2016-10-5 之后的版本。将刷好系统的 SD 卡在电脑上打开，进入 SD 卡根目录并打开 config.txt 文件。在文件末尾添加一行 dtoverlay=dwc2。
-<img src="https://user-images.githubusercontent.com/4698688/104398127-208e2880-5589-11eb-8186-92813579a4e4.png" alt="image"></p>
-<p>保存并关闭 config.txt 文件。</p>
-<p>再打开 cmdline.txt 文件，请确认你的编辑器已关闭“自动换行”。编辑这个文件的时候不需要插入任何换行符，所有字符都在同一行。找到 rootwait，在后面插入 modules-load=dwc2,g_ether。
-<img src="https://user-images.githubusercontent.com/4698688/104398352-837fbf80-5589-11eb-9aab-d657a9e85044.png" alt="image"></p>
-<p>保存并关闭 cmdline.txt 文件。</p>
-<h3 id="在根目录创建一个名为-ssh-的文件或目录">在根目录创建一个名为 ssh 的文件或目录。</h3>
-<p><img src="https://user-images.githubusercontent.com/4698688/104398369-8a0e3700-5589-11eb-800e-050f43f13a19.png" alt="image"></p>
-<h3 id="启动并登录树莓派zero系统">启动并登录树莓派Zero系统</h3>
-<p>把 SD 卡插入树莓派 Zero，用Zero Quick Plug或 microUSB/USB 转换头将树莓派 Zero 和电脑连接起来。
-<img src="https://user-images.githubusercontent.com/4698688/104398399-9abead00-5589-11eb-83b8-c9464ce18e8f.png" alt="image"></p>
-<p>图中用到的这款连接部件是树莓派 Zero 多功能 USB 插头（Zero Quick Plug）。
-这时系统会自动识别到树莓派。
-等待树莓派启动可能需要半分钟，然后就可以在网络列表中看到了设备已分配好 IP 地址。
-<img src="https://user-images.githubusercontent.com/4698688/104398422-a7430580-5589-11eb-9a4e-f444dd4d6e97.png" alt="image"></p>
-<p>现在，就可以尝试通过 SSH 连接树莓派的地址 raspberrypi.local 了。
-<img src="https://user-images.githubusercontent.com/4698688/104398443-af9b4080-5589-11eb-8642-bf23c2c423b5.png" alt="image"></p>
-<p>如果你用的是 Raspbian 桌面版，你可以安装一个 RDP（远程桌面协议）客户端然后在电脑上通过远程桌面（ “Remote Desktop Connection for Mac” ）客户端连接到树莓派，连接地址同样是 raspberrypi.local。</p>
-<h3 id="共享pc的网络">共享PC的网络</h3>
-<p>通过上述配置你的树莓派 Zero 还没有接入因特网，有两种方法接入因特网——其一，通过配置 Zero W 板载的无线网卡连接到无线路由器网络；其二，将电脑的网络通过 USB/以太网设备接口方式共享给树莓派，下面介绍第二种方法。</p>
-<p>首先进入 macOS 的“共享”配置界面。
-<img src="https://user-images.githubusercontent.com/4698688/104399768-4cf77400-558c-11eb-998d-b576ed270d37.png" alt="image"></p>
-<p>勾选“Internet Sharing”，并在右侧选择要共享的设备。设置好之后，通过 SSH 登录树莓派，Ping 测试一下就可以看到已经连接上因特网了。
-<img src="https://user-images.githubusercontent.com/4698688/104399789-54b71880-558c-11eb-8f71-92dfb84c783b.png" alt="image"></p>
+           <h1 id="硬件清单">硬件清单：</h1>
+<ol>
+<li>
+<p>ups电源di&rsquo;ban底板，这个板带时钟
+<img src="https://user-images.githubusercontent.com/4698688/109144327-00fb3a00-779c-11eb-838f-d97dd9165e24.png" alt="image"></p>
+</li>
+<li>
+<p>1.33寸屏幕
+<img src="https://user-images.githubusercontent.com/4698688/109144539-47e92f80-779c-11eb-975e-d2739291de0c.png" alt="image"></p>
+</li>
+<li>
+<p>外壳
+<img src="https://user-images.githubusercontent.com/4698688/109144445-225c2600-779c-11eb-96ce-43b076fc54d3.png" alt="image"></p>
+</li>
+<li>
+<p>树莓派 pi zero w，这个就不介绍了，网上随便哪个店都有卖</p>
+</li>
+</ol>
+<h1 id="软件清单">软件清单：</h1>
+<p>官方的镜像下载位置：
+<a href="https://github.com/evilsocket/pwnagotchi/releases/tag/v1.5.3">https://github.com/evilsocket/pwnagotchi/releases/tag/v1.5.3</a>
+原始镜像有1.9G，而且下载非常缓慢，建议从下面这个国内加速下载的方法：
+<a href="https://d.serctl.com/?uuid=5827f167-913d-4580-9813-7da48faf37d8">https://d.serctl.com/?uuid=5827f167-913d-4580-9813-7da48faf37d8</a>
+最后不要忘记校验下下载的文件sha256是否和官方的一致，做安全这个是习惯</p>
+<h1 id="安装启动">安装&amp;启动：</h1>
+<h3 id="1-烧写镜像">1. 烧写镜像</h3>
+<p>用的是linux的烧写方式，windows可以傻瓜式的用可视化工具烧写，不赘述自行搜索烧写攻略即可，和树莓派烧写方式一致
+查看SD卡所在的磁盘路径：
+<code>sudo fdisk -l</code>
+找到自己SD卡所在的挂载路径，其中如果有sdcard1、sdcard2之类的是分区信息，忽略即可，我们要找的是挂载的路径信息</p>
+<p>umount掉当前挂载的SD卡文件系统
+<code>sudo umount /dev/sdcard</code></p>
+<p>开始用dd烧写系统，直接参考pwnagotchi的说明文档即可，很简单，但不要把of路径写错，否则宿主机操作系统gg，或者宿主机磁盘数据被擦写就完蛋了
+<code>dd if=path/to/pwnagotchi-raspbian-lite-XXX.img of=/dev/sdcard bs=1M</code></p>
+<h3 id="2-配置启动文件">2. 配置启动文件</h3>
+<p>在烧写好镜像文件后，需要在根目录中添加一份启动的配置文件config.toml，先来一个最基本的配置文件</p>
+<pre><code>main.name = \&quot;pwnagotchi\&quot;
+main.lang = \&quot;en\&quot;
+main.whitelist = [
+  \&quot;EXAMPLE_NETWORK\&quot;,
+  \&quot;ANOTHER_EXAMPLE_NETWORK\&quot;,
+  \&quot;fo:od:ba:be:fo:od\&quot;,
+  \&quot;fo:od:ba\&quot;
+]
+
+main.plugins.grid.enabled = true
+main.plugins.grid.report = true
+main.plugins.grid.exclude = [
+  \&quot;YourHomeNetworkHere\&quot;
+]
+
+ui.display.enabled = true
+ui.display.type = \&quot;waveshare_2\&quot;
+ui.display.color = \&quot;black\&quot;
+</code></pre>
+<p>其中ui.display.type就是显示屏的选型参数，pwnagotchi对微雪的屏支持都较好，但是注意的是屏驱动之间是不兼容的，所以最好是先用买来的屏跑一次测试demo确定自己的屏类型，然后在配置文件中填写上对应的类型。从源码看pwnagotchi支持的屏类型如下：</p>
+<pre><code>def is_inky(self):
+    return self._implementation.name == 'inky'
+
+def is_papirus(self):
+    return self._implementation.name == 'papirus'
+
+def is_waveshare_v1(self):
+    return self._implementation.name == 'waveshare_1'
+
+def is_waveshare_v2(self):
+    return self._implementation.name == 'waveshare_2'
+
+def is_waveshare27inch(self):
+    return self._implementation.name == 'waveshare27inch'
+
+def is_waveshare29inch(self):
+    return self._implementation.name == 'waveshare29inch'
+
+def is_oledhat(self):
+    return self._implementation.name == 'oledhat'
+
+def is_lcdhat(self):
+    return self._implementation.name == 'lcdhat'
+
+def is_dfrobot_v1(self):
+    return self._implementation.name == 'dfrobot_v1'
+
+def is_dfrobot_v2(self):
+    return self._implementation.name == 'dfrobot_v2'
+
+def is_waveshare144lcd(self):
+    return self._implementation.name == 'waveshare144lcd'
+
+def is_waveshare154inch(self):
+    return self._implementation.name == 'waveshare154inch'
+
+def is_waveshare213d(self):
+    return self._implementation.name == 'waveshare213d'
+
+def is_waveshare213bc(self):
+    return self._implementation.name == 'waveshare213bc'
+
+def is_spotpear24inch(self):
+    return self._implementation.name == 'spotpear24inch'
+</code></pre>
+<p>ok，完成配置文件的导入，就可以插卡上电启动了，不一会应该就可以看到电子墨屏开始刷屏工作了。</p>
 <blockquote>
-<p>本文通过 mirror 和 hugo 生成，原始地址 <a href="https://github.com/joe07274/blog/issues/6">https://github.com/joe07274/blog/issues/6</a></p>
+<p>本文通过 mirror 和 hugo 生成，原始地址 <a href="https://github.com/joe07274/blog/issues/9">https://github.com/joe07274/blog/issues/9</a></p>
 </blockquote>
 
         </article>
@@ -162,7 +236,7 @@
 
     <div>
         <section id="datecount">
-          <h4 id="date"> Wed Jan 13, 2021 </h4>
+          <h4 id="date"> Wed Jan 27, 2021 </h4>
           <h5 id="wc"> 200 Words </h5>
           <h5 id="readtime"> Read in about 1 Min </h5>
         </section>
@@ -176,9 +250,9 @@
 
     <div>
         <section id="prev">
-            &nbsp;<a class="previous" href="https://joe07274.github.io/myblog/project/blog_20210106_4/"><i class="icon-arrow-left"></i> 自动化测试文档</a><br>
+            &nbsp;<a class="previous" href="https://joe07274.github.io/myblog/project/blog_20210113_6/"><i class="icon-arrow-left"></i> 树莓派通过USB桥接电脑进行通信（实战篇）</a><br>
         </section><section id="next">
-            &nbsp;<a class="next" href="https://joe07274.github.io/myblog/project/blog_20210127_9/">pwnagotchi搭建和调试 <i class="icon-arrow-right"></i></a>
+            &nbsp;<a class="next" href="https://joe07274.github.io/myblog/project/blog_20210128_10/">openWrt基于chinaDNS的域名解析防污染搭建 <i class="icon-arrow-right"></i></a>
         </section>
     </div>
 
@@ -221,9 +295,9 @@
 
 </aside>
 
-<meta itemprop="wordCount" content="112">
-<meta itemprop="datePublished" content="2021-01-13">
-<meta itemprop="url" content="https://joe07274.github.io/myblog/project/blog_20210113_6/">
+<meta itemprop="wordCount" content="167">
+<meta itemprop="datePublished" content="2021-01-27">
+<meta itemprop="url" content="https://joe07274.github.io/myblog/project/blog_20210127_9/">
 
 
 
