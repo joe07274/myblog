@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2008 - 2019, Steve Francia; all rights reserved.</copyright>
-    <lastBuildDate>Thu, 28 Jan 2021 02:18:45 +0000</lastBuildDate><atom:link href="https://joe07274.github.io/myblog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 04 Mar 2021 01:25:12 +0000</lastBuildDate><atom:link href="https://joe07274.github.io/myblog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>用树莓派构建家庭网络监控系统</title>
+      <link>https://joe07274.github.io/myblog/project/blog_20210304_16/</link>
+      <pubDate>Thu, 04 Mar 2021 01:25:12 +0000</pubDate>
+      
+      <guid>https://joe07274.github.io/myblog/project/blog_20210304_16/</guid>
+      <description>监控方案：  采集netflow，分析网络流日志，分析网络行为 nfdump+influxDB+grafana 部署探针，探测公网ip变化，探测链路质量 ping + influxDB+grafana  组件安装： nfdump安装： nfdump的安装，由于需要将netflow日志导入到influxDB中，而nfdump官方的bin不支持influxDB导入，但是源码里描述是支持导入功能只是需要自编译才能使用。
+apt install libtool apt install autoconf apt install pkg-config apt install rrdtool mrtg librrds-perl librrdp-perl librrd-dev libmailtools-perl apt install bison byacc flex apt install libcurl4-gnutls-dev apt install libghc-bzlib-dev apt install libboost-regex-dev libboost-filesystem-dev libboost-system-dev apt install libbz2-1.0 libbz2-dev libbz2-ocaml libbz2-ocaml-dev m4 automake make wget https://github.com/phaag/nfdump/archive/v1.6.18.tar.gz tar -xzvf nfdump-v1.6.18.zip cd nfdump-1.6.18/ ./autogen.sh ./configure \ --enable-nsel \ --enable-nfprofile \ --enable-influxdb make make install ldconfig influxDB安装： Installing InfluxDB to the Raspberry Pi</description>
+    </item>
+    
     <item>
       <title>openWrt基于chinaDNS的域名解析防污染搭建</title>
       <link>https://joe07274.github.io/myblog/project/blog_20210128_10/</link>
